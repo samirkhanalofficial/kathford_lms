@@ -120,6 +120,30 @@
                     {
                         "title": "Lecture 42 BCT I - Engineering Physics (Debendra Baniya) (2021-07-16 at 22:16 GMT-7)",
                         "videoId": "575773607"
+                    },
+                    {
+                        "title": "Lecture 44 BCT I - Engineering Physics (Debendra Baniya) (2021-07-20 at 18:16 GMT-7)",
+                        "videoId": "577123201"
+                    },
+                    {
+                        "title": "Lecture 45 BCT I - Engineering Physics (Debendra Baniya) (2021-07-22 at 18:16 GMT-7)",
+                        "videoId": "578294372"
+                    },
+                    {
+                        "title": "Lecture 46 BCT I - Engineering Physics (Debendra Baniya) (2021-07-23 at 22:16 GMT-7)",
+                        "videoId": "578952319"
+                    },
+                    {
+                        "title": "Lecture 48 BCT I - Engineering Physics (Debendra Baniya) (2021-07-27 at 18:15 GMT-7)",
+                        "videoId": "579802813"
+                    },
+                    {
+                        "title": "Lecture 49 BCT I - Engineering Physics (Debendra Baniya) (2021-07-29 at 18:15 GMT-7)",
+                        "videoId": "580791527"
+                    },
+                    {
+                        "title": "Lecture 50 BCT I - Engineering Physics (Debendra Baniya) (2021-07-30 at 22:15 GMT-7)",
+                        "videoId": "581693482"
                     }
                 ]
             },
@@ -177,6 +201,14 @@
                     {
                         "title": "Lecture 40 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-14 at 22:14 GMT-7)",
                         "videoId": "574850006"
+                    },
+                    {
+                        "title": "Lecture 43 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-18 at 22:22 GMT-7)",
+                        "videoId": "576374717"
+                    },
+                    {
+                        "title": "Lecture 47 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-25 at 22:16 GMT-7)",
+                        "videoId": "579290681"
                     }
                 ]
             }
@@ -195,6 +227,18 @@
                     {
                         "title": "Lecture 02 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-04 at 22:18 GMT-7)",
                         "videoId": "554180820"
+                    },
+                    {
+                        "title": "Lecture 03 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-11 at 22:17 GMT-7)",
+                        "videoId": "554180802"
+                    },
+                    {
+                        "title": "Lecture 04 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-18 at 22:16 GMT-7)",
+                        "videoId": "554180763"
+                    },
+                    {
+                        "title": "Lecture 05 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-25 at 22:16 GMT-7)",
+                        "videoId": "554660104"
                     }
                 ]
             },
@@ -212,6 +256,14 @@
                     {
                         "title": "Lecture 03 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-11 at 22:17 GMT-7)",
                         "videoId": "548679905"
+                    },
+                    {
+                        "title": "Lecture 04 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-18 at 22:18 GMT-7)",
+                        "videoId": "554180749"
+                    },
+                    {
+                        "title": "Lecture 05 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-25 at 22:18 GMT-7)",
+                        "videoId": "554660084"
                     }
                 ]
             }
@@ -326,6 +378,18 @@
                     {
                         "title": "Lecture 26 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-15 at 19:56 GMT-7)",
                         "videoId": "575775570"
+                    },
+                    {
+                        "title": "Lecture 27 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-19 at 19:56 GMT-7)",
+                        "videoId": "577124348"
+                    },
+                    {
+                        "title": "Lecture 28 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-20 at 19:56 GMT-7)",
+                        "videoId": "577124374"
+                    },
+                    {
+                        "title": "Lecture 29 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-22 at 19:56 GMT-7)",
+                        "videoId": "578295303"
                     }
                 ]
             }
@@ -340,6 +404,146 @@
                     {
                         "title": "Lecture 01 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-26 at 18:13 GMT-7)",
                         "videoId": "543636310"
+                    },
+                    {
+                        "title": "Lecture 02 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-28 at 18:15 GMT-7)",
+                        "videoId": "543636338"
+                    },
+                    {
+                        "title": "Lecture 03 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-30 at 18:17 GMT-7)",
+                        "videoId": "543636369"
+                    },
+                    {
+                        "title": "Lecture 04 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-03 at 18:15 GMT-7)",
+                        "videoId": "545370240"
+                    },
+                    {
+                        "title": "Lecture 05 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-05 at 18:15 GMT-7)",
+                        "videoId": "545420878"
+                    },
+                    {
+                        "title": "Lecture 06 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-07 at 18:17 GMT-7)",
+                        "videoId": "546392275"
+                    },
+                    {
+                        "title": "Lecture 07 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-10 at 18:17 GMT-7)",
+                        "videoId": "548679426"
+                    },
+                    {
+                        "title": "Lecture 08 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-12 at 18:19 GMT-7)",
+                        "videoId": "548679441"
+                    },
+                    {
+                        "title": "Lecture 09 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-14 at 18:19 GMT-7)",
+                        "videoId": "549203551"
+                    },
+                    {
+                        "title": "Lecture 10 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-17 at 18:18 GMT-7)",
+                        "videoId": "551358785"
+                    },
+                    {
+                        "title": "Lecture 11 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-19 at 18:16 GMT-7)",
+                        "videoId": "552964735"
+                    },
+                    {
+                        "title": "Lecture 12 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-21 at 18:16 GMT-7)",
+                        "videoId": "553839635"
+                    },
+                    {
+                        "title": "Lecture 13 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-24 at 18:16 GMT-7)",
+                        "videoId": "554561608"
+                    },
+                    {
+                        "title": "Lecture 14 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-28 at 18:17 GMT-7)",
+                        "videoId": "556597532"
+                    },
+                    {
+                        "title": "Lecture 15 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-31 at 18:15 GMT-7)",
+                        "videoId": "557146161"
+                    },
+                    {
+                        "title": "Lecture 16 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-02 at 18:15 GMT-7)",
+                        "videoId": "558388214"
+                    },
+                    {
+                        "title": "Lecture 17 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-04 at 18:16 GMT-7)",
+                        "videoId": "559007075"
+                    },
+                    {
+                        "title": "Lecture 18 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-07 at 18:16 GMT-7)",
+                        "videoId": "559886506"
+                    },
+                    {
+                        "title": "Lecture 19 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-09 at 18:17 GMT-7)",
+                        "videoId": "561190170"
+                    },
+                    {
+                        "title": "Lecture 20 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-11 at 18:16 GMT-7)",
+                        "videoId": "561738481"
+                    },
+                    {
+                        "title": "Lecture 21 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-14 at 18:15 GMT-7)",
+                        "videoId": "562705684"
+                    },
+                    {
+                        "title": "Lecture 22 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-16 at 18:15 GMT-7)",
+                        "videoId": "564014263"
+                    },
+                    {
+                        "title": "Lecture 23 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-18 at 18:15 GMT-7)",
+                        "videoId": "564571157"
+                    },
+                    {
+                        "title": "Lecture 24 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-21 at 18:16 GMT-7)",
+                        "videoId": "565541368"
+                    },
+                    {
+                        "title": "Lecture 25 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-23 at 18:20 GMT-7)",
+                        "videoId": "566527868"
+                    },
+                    {
+                        "title": "Lecture 26 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-28 at 18:15 GMT-7)",
+                        "videoId": "568853180"
+                    },
+                    {
+                        "title": "Lecture 27 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-30 at 18:15 GMT-7)",
+                        "videoId": "569422937"
+                    },
+                    {
+                        "title": "Lecture 28 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-07 at 18:15 GMT-7)",
+                        "videoId": "572165117"
+                    },
+                    {
+                        "title": "Lecture 29 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-09 at 18:15 GMT-7)",
+                        "videoId": "573300693"
+                    },
+                    {
+                        "title": "Lecture 30 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-12 at 18:16 GMT-7)",
+                        "videoId": "573950781"
+                    },
+                    {
+                        "title": "Lecture 31 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-14 at 18:15 GMT-7)",
+                        "videoId": "574848055"
+                    },
+                    {
+                        "title": "Lecture 32 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-16 at 18:16 GMT-7)",
+                        "videoId": "575775055"
+                    },
+                    {
+                        "title": "Lecture 33 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-19 at 18:15 GMT-7)",
+                        "videoId": "577123668"
+                    },
+                    {
+                        "title": "Lecture 34 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-23 at 18:15 GMT-7)",
+                        "videoId": "578952741"
+                    },
+                    {
+                        "title": "Lecture 35 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-26 at 18:16 GMT-7)",
+                        "videoId": "579343367"
+                    },
+                    {
+                        "title": "Lecture 36 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-28 at 18:27 GMT-7)",
+                        "videoId": "580794110"
                     }
                 ]
             }
@@ -418,6 +622,22 @@
                     {
                         "title": "Lecture 36 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-12 at 22:23 GMT-7)",
                         "videoId": "573950414"
+                    },
+                    {
+                        "title": "Lecture 39 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-07-18 at 18:27 GMT-7)",
+                        "videoId": "576374875"
+                    },
+                    {
+                        "title": "Lecture 40 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-19 at 22:21 GMT-7)",
+                        "videoId": "577124960"
+                    },
+                    {
+                        "title": "Lecture 42 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-07-25 at 18:22 GMT-7)",
+                        "videoId": "579291056"
+                    },
+                    {
+                        "title": "Lecture 43 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-26 at 22:21 GMT-7)",
+                        "videoId": "579343051"
                     }
                 ]
             },
@@ -495,6 +715,18 @@
                     {
                         "title": "Lecture 38 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-16 at 20:16 GMT-7)",
                         "videoId": "575776478"
+                    },
+                    {
+                        "title": "Lecture 41 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-23 at 19:58 GMT-7)",
+                        "videoId": "578952470"
+                    },
+                    {
+                        "title": "Lecture 44 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-28 at 19:57 GMT-7)",
+                        "videoId": "580792618"
+                    },
+                    {
+                        "title": "Lecture 45 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-30 at 19:58 GMT-7)",
+                        "videoId": "581693642"
                     }
                 ]
             }
@@ -617,6 +849,30 @@
                     {
                         "title": "Lecture 28 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-16 at 23:51 GMT-7)",
                         "videoId": "575776058"
+                    },
+                    {
+                        "title": "Lecture 29 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-18 at 20:01 GMT-7)",
+                        "videoId": "576374962"
+                    },
+                    {
+                        "title": "Lecture 30 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-07-22 at 22:26 GMT-7)",
+                        "videoId": "578295931"
+                    },
+                    {
+                        "title": "Lecture 31 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-23 at 23:50 GMT-7)",
+                        "videoId": "578952839"
+                    },
+                    {
+                        "title": "Lecture 32 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-25 at 19:58 GMT-7)",
+                        "videoId": "579291569"
+                    },
+                    {
+                        "title": "Lecture 33 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-07-29 at 22:24 GMT-7)",
+                        "videoId": "580794640"
+                    },
+                    {
+                        "title": "Lecture 34 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-30 at 23:52 GMT-7)",
+                        "videoId": "581693963"
                     }
                 ]
             }
