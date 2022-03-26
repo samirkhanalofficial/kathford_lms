@@ -1,11 +1,11 @@
 {
     "name": "kathfordlmsnew",
-    "short_name": "kathfordlmsnew",
+    "short_name": "kathford",
     "start_url": "/kathford_lms/live/",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter project.",
+    "description": "Kathford LMS app.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
