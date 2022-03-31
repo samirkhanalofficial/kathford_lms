@@ -6,6 +6,205 @@
         "semister": 2,
         "data": [
           {
+            "subject": "Mathematics II",
+            "teacher": [
+              {
+                "name": "Aarjan Ku. Sunar",
+                "videos": [
+                  {
+                    "title": "Engineering Maths II 02",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/Engineering-Math-II-2020-09-01-at-19_18-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "Engineering Math II  05",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/BCT-I-Engineering-Math-II-Arjan-Sunar-2020-09-08-at-19_23-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "L07  Engineering Math II (Arjan Sunar) (2020-09-13 at 00:15 GMT-7)",
+                    "videoId": "466045610",
+                    "videoUrl": "https://player.vimeo.com/video/466045610?autoplay=1"
+                  },
+                  {
+                    "title": "L09 Engineering Math II (Arjan Sunar) (2020-09-15 at 19:17 GMT-7)",
+                    "videoId": "466045638",
+                    "videoUrl": "https://player.vimeo.com/video/466045638?autoplay=1"
+                  },
+                  {
+                    "title": "L12  Engineering Math II (Arjan Sunar) (2020-09-22 at 19:18 GMT-7)",
+                    "videoId": "466045664",
+                    "videoUrl": "https://player.vimeo.com/video/466045664?autoplay=1"
+                  },
+                  {
+                    "title": "L14 Engineering Math II (Arjan Sunar) (2020-09-27 at 00:17 GMT-7)",
+                    "videoId": "466045493",
+                    "videoUrl": "https://player.vimeo.com/video/466045493?autoplay=1"
+                  },
+                  {
+                    "title": "L16 Engineering Math II (Arjan Sunar) (2020-09-29 at 19:20 GMT-7)",
+                    "videoId": "466045696",
+                    "videoUrl": "https://player.vimeo.com/video/466045696?autoplay=1"
+                  },
+                  {
+                    "title": "L18 Engineering Math II (Arjan Sunar) (2020-10-04 at 00:20 GMT-7)",
+                    "videoId": "466045726",
+                    "videoUrl": "https://player.vimeo.com/video/466045726?autoplay=1"
+                  },
+                  {
+                    "title": "L20  Engineering Math II (Arjan Sunar) (2020-10-06 at 19:20 GMT-7)",
+                    "videoId": "467021435",
+                    "videoUrl": "https://player.vimeo.com/video/467021435?autoplay=1"
+                  },
+                  {
+                    "title": "L23  Engineering Math II (Arjan Sunar) (2020-10-14 at 19:20 GMT-7)",
+                    "videoId": "469213908",
+                    "videoUrl": "https://player.vimeo.com/video/469213908?autoplay=1"
+                  },
+                  {
+                    "title": "L25  Engineering Math II (Arjan Sunar) (2020-10-18 at 00:20 GMT-7)",
+                    "videoId": "469497357",
+                    "videoUrl": "https://player.vimeo.com/video/469497357?autoplay=1"
+                  },
+                  {
+                    "title": "L28 Engineering Math II (Arjan Sunar) (2020-11-04 at 18:29 GMT-8)",
+                    "videoId": "475477762",
+                    "videoUrl": "https://player.vimeo.com/video/475477762?autoplay=1"
+                  },
+                  {
+                    "title": "L31  Engineering Math II (Arjan Sunar) (2020-11-11 at 18:23 GMT-8)",
+                    "videoId": "478001087",
+                    "videoUrl": "https://player.vimeo.com/video/478001087?autoplay=1"
+                  },
+                  {
+                    "title": "L33 Engineering Math II (Arjan Sunar) (2020-11-22 at 23:32 GMT-8)",
+                    "videoId": "482484286",
+                    "videoUrl": "https://player.vimeo.com/video/482484286?autoplay=1"
+                  },
+                  {
+                    "title": "L35 Engineering Math II (Arjan Sunar) (2020-11-25 at 18:21 GMT-8)",
+                    "videoId": "483512801",
+                    "videoUrl": "https://player.vimeo.com/video/483512801?autoplay=1"
+                  },
+                  {
+                    "title": "L37 Engineering Math II (Arjan Sunar) (2020-12-02 at 18:19 GMT-8)",
+                    "videoId": "486697426",
+                    "videoUrl": "https://player.vimeo.com/video/486697426?autoplay=1"
+                  }
+                ]
+              },
+              {
+                "name": "Hari Thapa",
+                "videos": [
+                  {
+                    "title": "Engineering Maths II 01",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/Eng.-Maths-II-2020-08-31-at-00_22-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "Engineering Maths II 03",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/Engineering-Math-II-2020-09-02-at-19_20-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "Engineering Math II-04",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/BCT-I-Engineering-Math-II-Hari-Thapa-2020-09-06-at-19_22-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "Engineering Maths II  06",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/BCT-I-Engineering-Math-II-Hari-Thapa-2020-09-09-at-19_23-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "L08 Engineering Math II (Hari Thapa) (2020-09-13 at 19:20 GMT-7)",
+                    "videoId": "466045515",
+                    "videoUrl": "https://player.vimeo.com/video/466045515?autoplay=1"
+                  },
+                  {
+                    "title": "L10 Engineering Math II (Hari Thapa) (2020-09-16 at 19:21 GMT-7)",
+                    "videoId": "466045457",
+                    "videoUrl": "https://player.vimeo.com/video/466045457?autoplay=1"
+                  },
+                  {
+                    "title": "L11 Engineering Math II (Hari Thapa) (2020-09-20 at 19:18 GMT-7)",
+                    "videoId": "466045746",
+                    "videoUrl": "https://player.vimeo.com/video/466045746?autoplay=1"
+                  },
+                  {
+                    "title": "L13 Engineering Math II (Hari Thapa) (2020-09-23 at 19:23 GMT-7)",
+                    "videoId": "466045544",
+                    "videoUrl": "https://player.vimeo.com/video/466045544?autoplay=1"
+                  },
+                  {
+                    "title": "L15 Engineering Math II (Hari Thapa) (2020-09-27 at 19:18 GMT-7)",
+                    "videoId": "466045772",
+                    "videoUrl": "https://player.vimeo.com/video/466045772?autoplay=1"
+                  },
+                  {
+                    "title": "L17 Engineering Math II (Hari Thapa) (2020-09-30 at 19:18 GMT-7)",
+                    "videoId": "466045574",
+                    "videoUrl": "https://player.vimeo.com/video/466045574?autoplay=1"
+                  },
+                  {
+                    "title": "L19 Engineering Math II (Hari Thapa) (2020-10-04 at 19:21 GMT-7)",
+                    "videoId": "466045792",
+                    "videoUrl": "https://player.vimeo.com/video/466045792?autoplay=1"
+                  },
+                  {
+                    "title": "L21 Engineering Math II (Hari Thapa) (2020-10-07 at 19:20 GMT-7)",
+                    "videoId": "467021428",
+                    "videoUrl": "https://player.vimeo.com/video/467021428?autoplay=1"
+                  },
+                  {
+                    "title": "L22  Engineering Math II (Hari Thapa) (2020-10-12 at 19:20 GMT-7)",
+                    "videoId": "467616820",
+                    "videoUrl": "https://player.vimeo.com/video/467616820?autoplay=1"
+                  },
+                  {
+                    "title": "L24 Engineering Math II (Hari Thapa) (2020-10-15 at 19:20 GMT-7)",
+                    "videoId": "469213891",
+                    "videoUrl": "https://player.vimeo.com/video/469213891?autoplay=1"
+                  },
+                  {
+                    "title": "L26 Engineering Math II (Hari Thapa) (2020-10-19 at 19:22 GMT-7)",
+                    "videoId": "469762860",
+                    "videoUrl": "https://player.vimeo.com/video/469762860?autoplay=1"
+                  },
+                  {
+                    "title": "L27 Engineering Math II (Hari Thapa) (2020-11-02 at 18:22 GMT-8)",
+                    "videoId": "474706113",
+                    "videoUrl": "https://player.vimeo.com/video/474706113?autoplay=1"
+                  },
+                  {
+                    "title": "L29  Engineering Math II (Hari Thapa) (2020-11-05 at 18:23 GMT-8)",
+                    "videoId": "475905975",
+                    "videoUrl": "https://player.vimeo.com/video/475905975?autoplay=1"
+                  },
+                  {
+                    "title": "L30  Engineering Math II (Hari Thapa) (2020-11-09 at 18:24 GMT-8)",
+                    "videoId": "477601768",
+                    "videoUrl": "https://player.vimeo.com/video/477601768?autoplay=1"
+                  },
+                  {
+                    "title": "L32 Engineering Math II (Hari Thapa) (2020-11-12 at 18:22 GMT-8)",
+                    "videoId": "478507675",
+                    "videoUrl": "https://player.vimeo.com/video/478507675?autoplay=1"
+                  },
+                  {
+                    "title": "L34 Engineering Math II (Hari Thapa) (2020-11-23 at 18:22 GMT-8)",
+                    "videoId": "482973550",
+                    "videoUrl": "https://player.vimeo.com/video/482973550?autoplay=1"
+                  },
+                  {
+                    "title": "L36 Engineering Math II (Hari Thapa) (2020-11-30 at 18:23 GMT-8)",
+                    "videoId": "486697998",
+                    "videoUrl": "https://player.vimeo.com/video/486697998?autoplay=1"
+                  },
+                  {
+                    "title": "L38 Engineering Math II (Hari Thapa) (2020-12-03 at 18:24 GMT-8)",
+                    "videoId": "487458022",
+                    "videoUrl": "https://player.vimeo.com/video/487458022?autoplay=1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
             "subject": "Basic Electronics Engineering",
             "teacher": [
               {
