@@ -6,294 +6,466 @@
         "semister": 2,
         "data": [
           {
-            "subject": "Thermo",
+            "subject": "Basic Electronics Engineering",
+            "teacher": [
+              {
+                "name": "Sashiram Dahal",
+                "videos": [
+                  {
+                    "title": "Basic Electronics Lecture 01",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/Basic-Electronics-Engg-2020-08-31-at-22_16-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "Basic Electronics Lecture 02",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/Basic-Electronics-Engineering-2020-08-30-at-22_19-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "L03 Basic Electronics Engineering (Sashiram Dahal) (2020-09-05 at 22:15 GMT-7)",
+                    "videoId": "465355059",
+                    "videoUrl": "https://player.vimeo.com/video/465355059?autoplay=1"
+                  },
+                  {
+                    "title": "Basic Electronics Lecture 04",
+                    "videoUrl": "http://lms.kathford.edu.np/wp-content/uploads/2020/09/BCT-I-Basic-Electronics-Engineering-Sashiram-Dahal-2020-09-07-at-00_16-GMT-7.mp4?_=1"
+                  },
+                  {
+                    "title": "L06 Basic Electronics Engineering (Sashiram Dahal) (2020-09-12 at 22:15 GMT-7)",
+                    "videoId": "465354749",
+                    "videoUrl": "https://player.vimeo.com/video/465354749?autoplay=1"
+                  },
+                  {
+                    "title": "L07 Basic Electronics Engineering (Sashiram Dahal) (2020-09-14 at 00:16 GMT-7)",
+                    "videoId": "465354712",
+                    "videoUrl": "https://player.vimeo.com/video/465354712?autoplay=1"
+                  },
+                  {
+                    "title": "L08 Basic Electronics Engineering (Sashiram Dahal) (2020-09-14 at 22:17 GMT-7)",
+                    "videoId": "465354379",
+                    "videoUrl": "https://player.vimeo.com/video/465354379?autoplay=1"
+                  },
+                  {
+                    "title": "L09 Basic Electronics Engineering (Sashiram Dahal) (2020-09-19 at 22:14 GMT-7)",
+                    "videoId": "465354667",
+                    "videoUrl": "https://player.vimeo.com/video/465354667?autoplay=1"
+                  },
+                  {
+                    "title": "L10 Basic Electronics Engineering (Sashiram Dahal) (2020-09-21 at 00:15 GMT-7)",
+                    "videoId": "465354586",
+                    "videoUrl": "https://player.vimeo.com/video/465354586?autoplay=1"
+                  },
+                  {
+                    "title": "L11 BCT I -Basic Electronics Engineering (Sashiram Dahal) (2020-09-21 at 22:13 GMT-7)",
+                    "videoId": "465354824",
+                    "videoUrl": "https://player.vimeo.com/video/465354824?autoplay=1"
+                  },
+                  {
+                    "title": "L12 Basic Electronics Engineering (Sashiram Dahal) (2020-09-26 at 22:15 GMT-7)",
+                    "videoId": "465354874",
+                    "videoUrl": "https://player.vimeo.com/video/465354874?autoplay=1"
+                  },
+                  {
+                    "title": "L13 Basic Electronics Engineering (Sashiram Dahal) (2020-09-28 at 22:16 GMT-7)",
+                    "videoId": "465354910",
+                    "videoUrl": "https://player.vimeo.com/video/465354910?autoplay=1"
+                  },
+                  {
+                    "title": "L14 Basic Electronics Engineering (Sashiram Dahal) (2020-09-29 at 00:18 GMT-7)",
+                    "videoId": "465354780",
+                    "videoUrl": "https://player.vimeo.com/video/465354780?autoplay=1"
+                  },
+                  {
+                    "title": "L15 Basic Electronics Engg (Sashiram Dahal) (2020-10-03 at 22:17 GMT-7)",
+                    "videoId": "465354988",
+                    "videoUrl": "https://player.vimeo.com/video/465354988?autoplay=1"
+                  },
+                  {
+                    "title": "L16 Basic Electronics Engineering (Sashiram Dahal) (2020-10-05 at 22:17 GMT-7)",
+                    "videoId": "465354522",
+                    "videoUrl": "https://player.vimeo.com/video/465354522?autoplay=1"
+                  },
+                  {
+                    "title": "L17 Basic Electronics Engineering (Sashiram Dahal) (2020-10-05 at 00:17 GMT-7)",
+                    "videoId": "465354458",
+                    "videoUrl": "https://player.vimeo.com/video/465354458?autoplay=1"
+                  },
+                  {
+                    "title": "L18 Basic Electronics Engineering (Sashiram Dahal) (2020-10-11 at 22:15 GMT-7)",
+                    "videoId": "467085956",
+                    "videoUrl": "https://player.vimeo.com/video/467085956?autoplay=1"
+                  },
+                  {
+                    "title": "L19  Basic Electronics Engineering (Sashiram Dahal) (2020-10-12 at 00:16 GMT-7)",
+                    "videoId": "467615651",
+                    "videoUrl": "https://player.vimeo.com/video/467615651?autoplay=1"
+                  },
+                  {
+                    "title": "L20 Basic Electronics Engineering (Sashiram Dahal) (2020-10-13 at 22:17 GMT-7)",
+                    "videoId": "468028875",
+                    "videoUrl": "https://player.vimeo.com/video/468028875?autoplay=1"
+                  },
+                  {
+                    "title": "L 21Basic Electronics Engineering (Sashiram Dahal) (2020-10-18 at 22:19 GMT-7)",
+                    "videoId": "469494510",
+                    "videoUrl": "https://player.vimeo.com/video/469494510?autoplay=1"
+                  },
+                  {
+                    "title": "L22  Basic Electronics Engineering  (EXAM)(Sashiram Dahal) (2020-10-19 at 00:19 GMT-7)",
+                    "videoId": "469762036",
+                    "videoUrl": "https://player.vimeo.com/video/469762036?autoplay=1"
+                  },
+                  {
+                    "title": "L23 Basic Electronics Engineering (Sashiram Dahal) (2020-11-01 at 22:17 GMT-7)",
+                    "videoId": "474328565",
+                    "videoUrl": "https://player.vimeo.com/video/474328565?autoplay=1"
+                  },
+                  {
+                    "title": "L24 Basic Electronics Engineering (Sashiram Dahal) (2020-11-02 at 23:17 GMT-8)",
+                    "videoId": "474704326",
+                    "videoUrl": "https://player.vimeo.com/video/474704326?autoplay=1"
+                  },
+                  {
+                    "title": "L25 Basic Electronics Engineering (Sashiram Dahal) (2020-11-03 at 21:20 GMT-8)",
+                    "videoId": "475069928",
+                    "videoUrl": "https://player.vimeo.com/video/475069928?autoplay=1"
+                  },
+                  {
+                    "title": "L26 Basic Electronics Engineering (Sashiram Dahal) (2020-11-08 at 21:16 GMT-8)",
+                    "videoId": "476835716",
+                    "videoUrl": "https://player.vimeo.com/video/476835716?autoplay=1"
+                  },
+                  {
+                    "title": "L27 Basic Electronics Engineering (Sashiram Dahal) (2020-11-09 at 23:19 GMT-8)",
+                    "videoId": "477601494",
+                    "videoUrl": "https://player.vimeo.com/video/477601494?autoplay=1"
+                  },
+                  {
+                    "title": "L28 Basic Electronics Engineering (Sashiram Dahal) (2020-11-10 at 21:19 GMT-8)",
+                    "videoId": "477601435",
+                    "videoUrl": "https://player.vimeo.com/video/477601435?autoplay=1"
+                  },
+                  {
+                    "title": "L29 Basic Electronics Engineering (Sashiram Dahal) (2020-11-22 at 21:15 GMT-8)",
+                    "videoId": "482484136",
+                    "videoUrl": "https://player.vimeo.com/video/482484136?autoplay=1"
+                  },
+                  {
+                    "title": "L30  Basic Electronics Engineering (Sashiram Dahal) (2020-11-23 at 23:18 GMT-8)",
+                    "videoId": "482973413",
+                    "videoUrl": "https://player.vimeo.com/video/482973413?autoplay=1"
+                  },
+                  {
+                    "title": "L31 Basic Electronics Engineering (Sashiram Dahal) (2020-11-24 at 21:17 GMT-8)",
+                    "videoId": "483514903",
+                    "videoUrl": "https://player.vimeo.com/video/483514903?autoplay=1"
+                  },
+                  {
+                    "title": "L32 Basic Electronics Engineering (Sashiram Dahal) (2020-11-29 at 21:18 GMT-8)",
+                    "videoId": "485059934",
+                    "videoUrl": "https://player.vimeo.com/video/485059934?autoplay=1"
+                  },
+                  {
+                    "title": "L33 Basic Electronics Engineering (Sashiram Dahal) (2020-11-30 at 23:22 GMT-8)",
+                    "videoId": "486293724",
+                    "videoUrl": "https://player.vimeo.com/video/486293724?autoplay=1"
+                  },
+                  {
+                    "title": "L34 Basic Electronics Engineering (Sashiram Dahal) (2020-12-06 at 21:19 GMT-8)",
+                    "videoId": "487959468",
+                    "videoUrl": "https://player.vimeo.com/video/487959468?autoplay=1"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "subject": "Fundamentals of Thermodynamics and Heat Transfer",
             "teacher": [
               {
                 "name": "MCL",
                 "videos": [
                   {
                     "title": "Chapter02_Session 01",
-                    "url": "https://player.vimeo.com/video/459872333",
+                    "videoUrl": "https://player.vimeo.com/video/459872333",
                     "videoId": "459872333"
                   },
                   {
                     "title": "Chapter02_Session 02",
-                    "url": "https://player.vimeo.com/video/459873658",
+                    "videoUrl": "https://player.vimeo.com/video/459873658",
                     "videoId": "459873658"
                   },
                   {
                     "title": "Chapter02_Session 03",
-                    "url": "https://player.vimeo.com/video/459873857",
+                    "videoUrl": "https://player.vimeo.com/video/459873857",
                     "videoId": "459873857"
                   },
                   {
                     "title": "Chapter02_Session 04",
-                    "url": "https://player.vimeo.com/video/459874475",
+                    "videoUrl": "https://player.vimeo.com/video/459874475",
                     "videoId": "459874475"
                   },
                   {
                     "title": "Chapter02_Session 05",
-                    "url": "https://player.vimeo.com/video/460456205",
+                    "videoUrl": "https://player.vimeo.com/video/460456205",
                     "videoId": "460456205"
                   },
                   {
                     "title": "Chapter02_Session 06",
-                    "url": "https://player.vimeo.com/video/460455336",
+                    "videoUrl": "https://player.vimeo.com/video/460455336",
                     "videoId": "460455336"
                   },
                   {
                     "title": "Chapter02_Session 07",
-                    "url": "https://player.vimeo.com/video/460455675",
+                    "videoUrl": "https://player.vimeo.com/video/460455675",
                     "videoId": "460455675"
                   },
                   {
                     "title": "CH03_S01",
-                    "url": "https://player.vimeo.com/video/462287611",
+                    "videoUrl": "https://player.vimeo.com/video/462287611",
                     "videoId": "462287611"
                   },
                   {
                     "title": "CH03_S02",
-                    "url": "https://player.vimeo.com/video/462287936",
+                    "videoUrl": "https://player.vimeo.com/video/462287936",
                     "videoId": "462287936"
                   },
                   {
                     "title": "CH03_S03",
-                    "url": "https://player.vimeo.com/video/462287239",
+                    "videoUrl": "https://player.vimeo.com/video/462287239",
                     "videoId": "462287239"
                   },
                   {
                     "title": "CH03_S04",
-                    "url": "https://player.vimeo.com/video/462287454",
+                    "videoUrl": "https://player.vimeo.com/video/462287454",
                     "videoId": "462287454"
                   },
                   {
                     "title": "CH03_S05",
-                    "url": "https://player.vimeo.com/video/463321566",
+                    "videoUrl": "https://player.vimeo.com/video/463321566",
                     "videoId": "463321566"
                   },
                   {
                     "title": "CH03_S06",
-                    "url": "https://player.vimeo.com/video/463317779",
+                    "videoUrl": "https://player.vimeo.com/video/463317779",
                     "videoId": "463317779"
                   },
                   {
                     "title": "CH03_S07",
-                    "url": "https://player.vimeo.com/video/463320116",
+                    "videoUrl": "https://player.vimeo.com/video/463320116",
                     "videoId": "463320116"
                   },
                   {
                     "title": "CH03_S08",
-                    "url": "https://player.vimeo.com/video/464540445",
+                    "videoUrl": "https://player.vimeo.com/video/464540445",
                     "videoId": "464540445"
                   },
                   {
                     "title": "CH03_S09",
-                    "url": "https://player.vimeo.com/video/464536655",
+                    "videoUrl": "https://player.vimeo.com/video/464536655",
                     "videoId": "464536655"
                   },
                   {
                     "title": "CH03_S10",
-                    "url": "https://player.vimeo.com/video/464537643",
+                    "videoUrl": "https://player.vimeo.com/video/464537643",
                     "videoId": "464537643"
                   },
                   {
                     "title": "CH03_S11",
-                    "url": "https://player.vimeo.com/video/464538652",
+                    "videoUrl": "https://player.vimeo.com/video/464538652",
                     "videoId": "464538652"
                   },
                   {
                     "title": "CH03_S12",
-                    "url": "https://player.vimeo.com/video/464540112",
+                    "videoUrl": "https://player.vimeo.com/video/464540112",
                     "videoId": "464540112"
                   },
                   {
                     "title": "CH04_S01",
-                    "url": "https://player.vimeo.com/video/465754505",
+                    "videoUrl": "https://player.vimeo.com/video/465754505",
                     "videoId": "465754505"
                   },
                   {
                     "title": "CH04_S02",
-                    "url": "https://player.vimeo.com/video/465755153",
+                    "videoUrl": "https://player.vimeo.com/video/465755153",
                     "videoId": "465755153"
                   },
                   {
                     "title": "CH04_S03",
-                    "url": "https://player.vimeo.com/video/465755892",
+                    "videoUrl": "https://player.vimeo.com/video/465755892",
                     "videoId": "465755892"
                   },
                   {
                     "title": "CH04_S04",
-                    "url": "https://player.vimeo.com/video/465753990",
+                    "videoUrl": "https://player.vimeo.com/video/465753990",
                     "videoId": "465753990"
                   },
                   {
                     "title": "CH04_S05",
-                    "url": "https://player.vimeo.com/video/466783346",
+                    "videoUrl": "https://player.vimeo.com/video/466783346",
                     "videoId": "466783346"
                   },
                   {
                     "title": "CH04_S06",
-                    "url": "https://player.vimeo.com/video/466782742",
+                    "videoUrl": "https://player.vimeo.com/video/466782742",
                     "videoId": "466782742"
                   },
                   {
                     "title": "CH04_S07",
-                    "url": "https://player.vimeo.com/video/466783004",
+                    "videoUrl": "https://player.vimeo.com/video/466783004",
                     "videoId": "466783004"
                   },
                   {
                     "title": "CH04_S08",
-                    "url": "https://player.vimeo.com/video/467698597",
+                    "videoUrl": "https://player.vimeo.com/video/467698597",
                     "videoId": "467698597"
                   },
                   {
                     "title": "CH04_S09",
-                    "url": "https://player.vimeo.com/video/467701163",
+                    "videoUrl": "https://player.vimeo.com/video/467701163",
                     "videoId": "467701163"
                   },
                   {
                     "title": "CH04_S10",
-                    "url": "https://player.vimeo.com/video/467703958",
+                    "videoUrl": "https://player.vimeo.com/video/467703958",
                     "videoId": "467703958"
                   },
                   {
                     "title": "CH04_S11",
-                    "url": "https://player.vimeo.com/video/467707674",
+                    "videoUrl": "https://player.vimeo.com/video/467707674",
                     "videoId": "467707674"
                   },
                   {
                     "title": "CH04_S12",
-                    "url": "https://player.vimeo.com/video/474899019",
+                    "videoUrl": "https://player.vimeo.com/video/474899019",
                     "videoId": "474899019"
                   },
                   {
                     "title": "CH04_S11",
-                    "url": "https://player.vimeo.com/video/467707674",
+                    "videoUrl": "https://player.vimeo.com/video/467707674",
                     "videoId": "467707674"
                   },
                   {
                     "title": "CH04_S14",
-                    "url": "https://player.vimeo.com/video/474897031",
+                    "videoUrl": "https://player.vimeo.com/video/474897031",
                     "videoId": "474897031"
                   },
                   {
                     "title": "CH04_S15",
-                    "url": "https://player.vimeo.com/video/474897557",
+                    "videoUrl": "https://player.vimeo.com/video/474897557",
                     "videoId": "474897557"
                   },
                   {
                     "title": "CH05_S01",
-                    "url": "https://player.vimeo.com/video/474906320",
+                    "videoUrl": "https://player.vimeo.com/video/474906320",
                     "videoId": "474906320"
                   },
                   {
                     "title": "CH05_S02",
-                    "url": "https://player.vimeo.com/video/474903577",
+                    "videoUrl": "https://player.vimeo.com/video/474903577",
                     "videoId": "474903577"
                   },
                   {
                     "title": "CH05_S03",
-                    "url": "https://player.vimeo.com/video/474904648",
+                    "videoUrl": "https://player.vimeo.com/video/474904648",
                     "videoId": "474904648"
                   },
                   {
                     "title": "CH05_S04",
-                    "url": "https://player.vimeo.com/video/474905750",
+                    "videoUrl": "https://player.vimeo.com/video/474905750",
                     "videoId": "474905750"
                   },
                   {
                     "title": "CH05_S05",
-                    "url": "https://player.vimeo.com/video/483946981",
+                    "videoUrl": "https://player.vimeo.com/video/483946981",
                     "videoId": "483946981"
                   },
                   {
                     "title": "CH05_S06",
-                    "url": "https://player.vimeo.com/video/483950742",
+                    "videoUrl": "https://player.vimeo.com/video/483950742",
                     "videoId": "483950742"
                   },
                   {
                     "title": "CH05_S07",
-                    "url": "https://player.vimeo.com/video/483952514",
+                    "videoUrl": "https://player.vimeo.com/video/483952514",
                     "videoId": "483952514"
                   },
                   {
                     "title": "CH05_S08",
-                    "url": "https://player.vimeo.com/video/483953455",
+                    "videoUrl": "https://player.vimeo.com/video/483953455",
                     "videoId": "483953455"
                   },
                   {
                     "title": "CH05_S09",
-                    "url": "https://player.vimeo.com/video/483954721",
+                    "videoUrl": "https://player.vimeo.com/video/483954721",
                     "videoId": "483954721"
                   },
                   {
                     "title": "CH05_S10",
-                    "url": "https://player.vimeo.com/video/483956621",
+                    "videoUrl": "https://player.vimeo.com/video/483956621",
                     "videoId": "483956621"
                   },
                   {
                     "title": "CH05_S11",
-                    "url": "https://player.vimeo.com/video/483957588",
+                    "videoUrl": "https://player.vimeo.com/video/483957588",
                     "videoId": "483957588"
                   },
                   {
                     "title": "CH05_S12",
-                    "url": "https://player.vimeo.com/video/484997218",
+                    "videoUrl": "https://player.vimeo.com/video/484997218",
                     "videoId": "484997218"
                   },
                   {
                     "title": "CH05_S13",
-                    "url": "https://player.vimeo.com/video/484998568",
+                    "videoUrl": "https://player.vimeo.com/video/484998568",
                     "videoId": "484998568"
                   },
                   {
                     "title": "CH05_S14",
-                    "url": "https://player.vimeo.com/video/484999178",
+                    "videoUrl": "https://player.vimeo.com/video/484999178",
                     "videoId": "484999178"
                   },
                   {
                     "title": "CH06_S01",
-                    "url": "https://player.vimeo.com/video/485003045",
+                    "videoUrl": "https://player.vimeo.com/video/485003045",
                     "videoId": "485003045"
                   },
                   {
                     "title": "CH06_S02",
-                    "url": "https://player.vimeo.com/video/485004026",
+                    "videoUrl": "https://player.vimeo.com/video/485004026",
                     "videoId": "485004026"
                   },
                   {
                     "title": "CH06_S03",
-                    "url": "https://player.vimeo.com/video/485004859",
+                    "videoUrl": "https://player.vimeo.com/video/485004859",
                     "videoId": "485004859"
                   },
                   {
                     "title": "CH06_S04",
-                    "url": "https://player.vimeo.com/video/485005284",
+                    "videoUrl": "https://player.vimeo.com/video/485005284",
                     "videoId": "485005284"
                   },
                   {
                     "title": "CH06_S05",
-                    "url": "https://player.vimeo.com/video/485006064",
+                    "videoUrl": "https://player.vimeo.com/video/485006064",
                     "videoId": "485006064"
                   },
                   {
                     "title": "CH06_S06",
-                    "url": "https://player.vimeo.com/video/487766180",
+                    "videoUrl": "https://player.vimeo.com/video/487766180",
                     "videoId": "487766180"
                   },
                   {
                     "title": "CH06_S07",
-                    "url": "https://player.vimeo.com/video/487766937",
+                    "videoUrl": "https://player.vimeo.com/video/487766937",
                     "videoId": "487766937"
                   },
                   {
                     "title": "CH06_S08",
-                    "url": "https://player.vimeo.com/video/487767211",
+                    "videoUrl": "https://player.vimeo.com/video/487767211",
                     "videoId": "487767211"
                   },
                   {
                     "title": "CH06_S09",
-                    "url": "https://player.vimeo.com/video/487767726",
+                    "videoUrl": "https://player.vimeo.com/video/487767726",
                     "videoId": "487767726"
                   }
                 ]
@@ -313,139 +485,173 @@
                 "videos": [
                   {
                     "title": "Lecture 02 BCT I - Engineering Physics (Debendra Baniya) (2021-04-27 at 18:16 GMT-7)",
-                    "videoId": "543503336"
+                    "videoId": "543503336",
+                    "videoUrl": "https://player.vimeo.com/video/543503336"
                   },
                   {
                     "title": "Lecture 03 BCT I - Engineering Physics (Debendra Baniya) (2021-04-29 at 18:14 GMT-7)",
-                    "videoId": "543503516"
+                    "videoId": "543503516",
+                    "videoUrl": "https://player.vimeo.com/video/543503516"
                   },
                   {
                     "title": "Lecture 04 BCT I - Engineering Physics (Debendra Baniya) (2021-04-30 at 22:16 GMT-7)",
-                    "videoId": "543509445"
+                    "videoId": "543509445",
+                    "videoUrl": "https://player.vimeo.com/video/543509445"
                   },
                   {
                     "title": "Lecture 06 BCT I - Engineering Physics (Debendra Baniya) (2021-05-04 at 18:16 GMT-7)",
-                    "videoId": "545406108"
+                    "videoId": "545406108",
+                    "videoUrl": "https://player.vimeo.com/video/545406108"
                   },
                   {
                     "title": "Lecture 07 BCT I - Engineering Physics (Debendra Baniya) (2021-05-06 at 18:18 GMT-7)",
-                    "videoId": "545845054"
+                    "videoId": "545845054",
+                    "videoUrl": "https://player.vimeo.com/video/545845054"
                   },
                   {
                     "title": "Lecture 08 BCT I - Engineering Physics (Debendra Baniya) (2021-05-07 at 22:24 GMT-7)",
-                    "videoId": "546391962"
+                    "videoId": "546391962",
+                    "videoUrl": "https://player.vimeo.com/video/546391962"
                   },
                   {
                     "title": "Lecture 10 BCT I - Engineering Physics (Debendra Baniya) (2021-05-11 at 18:18 GMT-7)",
-                    "videoId": "548678074"
+                    "videoId": "548678074",
+                    "videoUrl": "https://player.vimeo.com/video/548678074"
                   },
                   {
                     "title": "Lecture 11 BCT I - Engineering Physics (Debendra Baniya) (2021-05-13 at 18:18 GMT-7)",
-                    "videoId": "548755361"
+                    "videoId": "548755361",
+                    "videoUrl": "https://player.vimeo.com/video/548755361"
                   },
                   {
                     "title": "Lecture 12 BCT I - Engineering Physics (Debendra Baniya) (2021-05-14 at 22:20 GMT-7)",
-                    "videoId": "549202687"
+                    "videoId": "549202687",
+                    "videoUrl": "https://player.vimeo.com/video/549202687"
                   },
                   {
                     "title": "Lecture 14 BCT I - Engineering Physics (Debendra Baniya) (2021-05-18 at 18:18 GMT-7)",
-                    "videoId": "552962789"
+                    "videoId": "552962789",
+                    "videoUrl": "https://player.vimeo.com/video/552962789"
                   },
                   {
                     "title": "Lecture 15 BCT I - Engineering Physics (Debendra Baniya) (2021-05-20 at 18:21 GMT-7)",
-                    "videoId": "552962813"
+                    "videoId": "552962813",
+                    "videoUrl": "https://player.vimeo.com/video/552962813"
                   },
                   {
                     "title": "Lecture 16 BCT I - Engineering Physics (Debendra Baniya) (2021-05-21 at 22:32 GMT-7)",
-                    "videoId": "553839316"
+                    "videoId": "553839316",
+                    "videoUrl": "https://player.vimeo.com/video/553839316"
                   },
                   {
                     "title": "Lecture 18 BCT I - Engineering Physics (Debendra Baniya) (2021-05-25 at 18:18 GMT-7)",
-                    "videoId": "554660337"
+                    "videoId": "554660337",
+                    "videoUrl": "https://player.vimeo.com/video/554660337"
                   },
                   {
                     "title": "Lecture 19  BCT I - Engineering Physics (Debendra Baniya) (2021-05-27 at 18:18 GMT-7)",
-                    "videoId": "555754335"
+                    "videoId": "555754335",
+                    "videoUrl": "https://player.vimeo.com/video/555754335"
                   },
                   {
                     "title": "Lecture 20 BCT I - Engineering Physics (Debendra Baniya) (2021-05-28 at 22:18 GMT-7)",
-                    "videoId": "556596851"
+                    "videoId": "556596851",
+                    "videoUrl": "https://player.vimeo.com/video/556596851"
                   },
                   {
                     "title": "Lecture 22 BCT I - Engineering Physics (Debendra Baniya) (2021-06-01 at 18:16 GMT-7)",
-                    "videoId": "557909709"
+                    "videoId": "557909709",
+                    "videoUrl": "https://player.vimeo.com/video/557909709"
                   },
                   {
                     "title": "Lecture 23 BCT I - Engineering Physics (Debendra Baniya) (2021-06-03 at 18:17 GMT-7)",
-                    "videoId": "558936098"
+                    "videoId": "558936098",
+                    "videoUrl": "https://player.vimeo.com/video/558936098"
                   },
                   {
                     "title": "Lecture 25 BCT I - Engineering Physics (Debendra Baniya) (2021-06-08 at 18:16 GMT-7)",
-                    "videoId": "560720298"
+                    "videoId": "560720298",
+                    "videoUrl": "https://player.vimeo.com/video/560720298"
                   },
                   {
                     "title": "Lecture 25 BCT I - Engineering Physics (Debendra Baniya) (2021-06-08 at 18:16 GMT-7)",
-                    "videoId": "560720298"
+                    "videoId": "560720298",
+                    "videoUrl": "https://player.vimeo.com/video/560720298"
                   },
                   {
                     "title": "Lecture 27 BCT I - Engineering Physics (Debendra Baniya) (2021-06-11 at 22:16 GMT-7)",
-                    "videoId": "561737594"
+                    "videoId": "561737594",
+                    "videoUrl": "https://player.vimeo.com/video/561737594"
                   },
                   {
                     "title": "Lecture 29 BCT I - Engineering Physics (Debendra Baniya) (2021-06-15 at 18:18 GMT-7)",
-                    "videoId": "563743582"
+                    "videoId": "563743582",
+                    "videoUrl": "https://player.vimeo.com/video/563743582"
                   },
                   {
                     "title": "Lecture 30 BCT I - Engineering Physics (Debendra Baniya) (2021-06-17 at 18:21 GMT-7)",
-                    "videoId": "564069972"
+                    "videoId": "564069972",
+                    "videoUrl": "https://player.vimeo.com/video/564069972"
                   },
                   {
                     "title": "Lecture 31 BCT I - Engineering Physics (Debendra Baniya) (2021-06-18 at 22:15 GMT-7)",
-                    "videoId": "564570709"
+                    "videoId": "564570709",
+                    "videoUrl": "https://player.vimeo.com/video/564570709"
                   },
                   {
                     "title": "Lecture 36 BCT I - Engineering Physics (Debendra Baniya) (2021-07-06 at 18:18 GMT-7)",
-                    "videoId": "572166062"
+                    "videoId": "572166062",
+                    "videoUrl": "https://player.vimeo.com/video/572166062"
                   },
                   {
                     "title": "Lecture 37 BCT I - Engineering Physics (Debendra Baniya) (2021-07-08 at 18:18 GMT-7)",
-                    "videoId": "572542844"
+                    "videoId": "572542844",
+                    "videoUrl": "https://player.vimeo.com/video/572542844"
                   },
                   {
                     "title": "Lecture 38 BCT I - Engineering Physics (Debendra Baniya) (2021-07-09 at 22:16 GMT-7)",
-                    "videoId": "573082070"
+                    "videoId": "573082070",
+                    "videoUrl": "https://player.vimeo.com/video/573082070"
                   },
                   {
                     "title": "Lecture 39 BCT I - Engineering Physics (Debendra Baniya) (2021-07-13 at 18:16 GMT-7)",
-                    "videoId": "574849967"
+                    "videoId": "574849967",
+                    "videoUrl": "https://player.vimeo.com/video/574849967"
                   },
                   {
                     "title": "Lecture 41 BCT I - Engineering Physics (Debendra Baniya) (2021-07-15 at 18:15 GMT-7)",
-                    "videoId": "575773641"
+                    "videoId": "575773641",
+                    "videoUrl": "https://player.vimeo.com/video/575773641"
                   },
                   {
                     "title": "Lecture 42 BCT I - Engineering Physics (Debendra Baniya) (2021-07-16 at 22:16 GMT-7)",
-                    "videoId": "575773607"
+                    "videoId": "575773607",
+                    "videoUrl": "https://player.vimeo.com/video/575773607"
                   },
                   {
                     "title": "Lecture 44 BCT I - Engineering Physics (Debendra Baniya) (2021-07-20 at 18:16 GMT-7)",
-                    "videoId": "577123201"
+                    "videoId": "577123201",
+                    "videoUrl": "https://player.vimeo.com/video/577123201"
                   },
                   {
                     "title": "Lecture 45 BCT I - Engineering Physics (Debendra Baniya) (2021-07-22 at 18:16 GMT-7)",
-                    "videoId": "578294372"
+                    "videoId": "578294372",
+                    "videoUrl": "https://player.vimeo.com/video/578294372"
                   },
                   {
                     "title": "Lecture 46 BCT I - Engineering Physics (Debendra Baniya) (2021-07-23 at 22:16 GMT-7)",
-                    "videoId": "578952319"
+                    "videoId": "578952319",
+                    "videoUrl": "https://player.vimeo.com/video/578952319"
                   },
                   {
                     "title": "Lecture 48 BCT I - Engineering Physics (Debendra Baniya) (2021-07-27 at 18:15 GMT-7)",
-                    "videoId": "579802813"
+                    "videoId": "579802813",
+                    "videoUrl": "https://player.vimeo.com/video/579802813"
                   },
                   {
                     "title": "Lecture 49 BCT I - Engineering Physics (Debendra Baniya) (2021-07-29 at 18:15 GMT-7)",
-                    "videoId": "580791527"
+                    "videoId": "580791527",
+                    "videoUrl": "https://player.vimeo.com/video/580791527"
                   }
                 ]
               },
@@ -454,63 +660,78 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Engineering Physics (Rajendra Pokharel) (2021-04-25 at 22:16 GMT-7)",
-                    "videoId": "543503325"
+                    "videoId": "543503325",
+                    "videoUrl": "https://player.vimeo.com/video/543503325"
                   },
                   {
                     "title": "Lecture 05 BCT I - Engineering Physics (Rajendra Pokharel) (2021-05-02 at 22:18 GMT-7)",
-                    "videoId": "544207336"
+                    "videoId": "544207336",
+                    "videoUrl": "https://player.vimeo.com/video/544207336"
                   },
                   {
                     "title": "Lecture 09 BCT I - Engineering Physics (Rajendra Pokharel) (2021-05-09 at 22:19 GMT-7)",
-                    "videoId": "547087328"
+                    "videoId": "547087328",
+                    "videoUrl": "https://player.vimeo.com/video/547087328"
                   },
                   {
                     "title": "Lecture 13 BCT I - Engineering Physics (Rajendra Pokharel) (2021-05-16 at 22:28 GMT-7)",
-                    "videoId": "549820464"
+                    "videoId": "549820464",
+                    "videoUrl": "https://player.vimeo.com/video/549820464"
                   },
                   {
                     "title": "Lecture 17 BCT I - Engineering Physics (Rajendra Pokharel) (2021-05-23 at 22:29 GMT-7)",
-                    "videoId": "554175148"
+                    "videoId": "554175148",
+                    "videoUrl": "https://player.vimeo.com/video/554175148"
                   },
                   {
                     "title": "Lecture 21 BCT I - Engineering Physics (Rajendra Pokharel) (2021-05-30 at 22:17 GMT-7)",
-                    "videoId": "556865109"
+                    "videoId": "556865109",
+                    "videoUrl": "https://player.vimeo.com/video/556865109"
                   },
                   {
                     "title": "Lecture 24 BCT I - Engineering Physics (Rajendra Pokharel) (2021-06-06 at 22:18 GMT-7)",
-                    "videoId": "559577190"
+                    "videoId": "559577190",
+                    "videoUrl": "https://player.vimeo.com/video/559577190"
                   },
                   {
                     "title": "Lecture 28 BCT I - Engineering Physics (Rajendra Pokharel) (2021-06-13 at 22:18 GMT-7)",
-                    "videoId": "562619255"
+                    "videoId": "562619255",
+                    "videoUrl": "https://player.vimeo.com/video/562619255"
                   },
                   {
                     "title": "Lecture 32 BCT I - Engineering Physics (Rajendra Pokharel) (2021-06-20 at 00:18 GMT-7)",
-                    "videoId": "565207384"
+                    "videoId": "565207384",
+                    "videoUrl": "https://player.vimeo.com/video/565207384"
                   },
                   {
                     "title": "Lecture 33 BCT I - Engineering Physics (Rajendra Pokharel) (2021-06-27 at 22:22 GMT-7)",
-                    "videoId": "568852277"
+                    "videoId": "568852277",
+                    "videoUrl": "https://player.vimeo.com/video/568852277"
                   },
                   {
                     "title": "Lecture 34 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-02 at 23:14 GMT-7)",
-                    "videoId": "570672304"
+                    "videoId": "570672304",
+                    "videoUrl": "https://player.vimeo.com/video/570672304"
                   },
                   {
                     "title": "Lecture 35 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-04 at 22:16 GMT-7)",
-                    "videoId": "571190706"
+                    "videoId": "571190706",
+                    "videoUrl": "https://player.vimeo.com/video/571190706"
                   },
                   {
                     "title": "Lecture 40 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-14 at 22:14 GMT-7)",
-                    "videoId": "574850006"
+                    "videoId": "574850006",
+                    "videoUrl": "https://player.vimeo.com/video/574850006"
                   },
                   {
                     "title": "Lecture 43 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-18 at 22:22 GMT-7)",
-                    "videoId": "576374717"
+                    "videoId": "576374717",
+                    "videoUrl": "https://player.vimeo.com/video/576374717"
                   },
                   {
                     "title": "Lecture 47 BCT I - Engineering Physics (Rajendra Pokharel) (2021-07-25 at 22:16 GMT-7)",
-                    "videoId": "579290681"
+                    "videoId": "579290681",
+                    "videoUrl": "https://player.vimeo.com/video/579290681"
                   }
                 ]
               },
@@ -519,7 +740,8 @@
                 "videos": [
                   {
                     "title": "Orientation for Exam Form  (2021-08-03 at 05:44 GMT-7)",
-                    "videoId": "582527971"
+                    "videoId": "582527971",
+                    "videoUrl": "https://player.vimeo.com/video/582527971"
                   }
                 ]
               }
@@ -533,67 +755,83 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-04-27 at 22:22 GMT-7)",
-                    "videoId": "554180838"
+                    "videoId": "554180838",
+                    "videoUrl": "https://player.vimeo.com/video/554180838"
                   },
                   {
                     "title": "Lecture 02 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-04 at 22:18 GMT-7)",
-                    "videoId": "554180820"
+                    "videoId": "554180820",
+                    "videoUrl": "https://player.vimeo.com/video/554180820"
                   },
                   {
                     "title": "Lecture 03 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-11 at 22:17 GMT-7)",
-                    "videoId": "554180802"
+                    "videoId": "554180802",
+                    "videoUrl": "https://player.vimeo.com/video/554180802"
                   },
                   {
                     "title": "Lecture 04 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-18 at 22:16 GMT-7)",
-                    "videoId": "554180763"
+                    "videoId": "554180763",
+                    "videoUrl": "https://player.vimeo.com/video/554180763"
                   },
                   {
                     "title": "Lecture 05 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-05-25 at 22:16 GMT-7)",
-                    "videoId": "554660104"
+                    "videoId": "554660104",
+                    "videoUrl": "https://player.vimeo.com/video/554660104"
                   },
                   {
                     "title": "Lecture 06 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-06-01 at 22:17 GMT-7)",
-                    "videoId": "557910150"
+                    "videoId": "557910150",
+                    "videoUrl": "https://player.vimeo.com/video/557910150"
                   },
                   {
                     "title": "Lecture 07 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-06-08 at 22:17 GMT-7)",
-                    "videoId": "560720513"
+                    "videoId": "560720513",
+                    "videoUrl": "https://player.vimeo.com/video/560720513"
                   },
                   {
                     "title": "Lecture 08 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-06-15 at 22:21 GMT-7)",
-                    "videoId": "564014060"
+                    "videoId": "564014060",
+                    "videoUrl": "https://player.vimeo.com/video/564014060"
                   },
                   {
                     "title": "Lecture 10 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-07-06 at 22:17 GMT-7)",
-                    "videoId": "572166603"
+                    "videoId": "572166603",
+                    "videoUrl": "https://player.vimeo.com/video/572166603"
                   },
                   {
                     "title": "Lecture 11 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-07-13 at 22:18 GMT-7)",
-                    "videoId": "574850471"
+                    "videoId": "574850471",
+                    "videoUrl": "https://player.vimeo.com/video/574850471"
                   },
                   {
                     "title": "Lecture 12 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-07-20 at 22:18 GMT-7)",
-                    "videoId": "577124584"
+                    "videoId": "577124584",
+                    "videoUrl": "https://player.vimeo.com/video/577124584"
                   },
                   {
                     "title": "Lecture 13 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-07-27 at 22:17 GMT-7)",
-                    "videoId": "579803150"
+                    "videoId": "579803150",
+                    "videoUrl": "https://player.vimeo.com/video/579803150"
                   },
                   {
                     "title": "Lecture 14 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-08-03 at 22:20 GMT-7)",
-                    "videoId": "582902397"
+                    "videoId": "582902397",
+                    "videoUrl": "https://player.vimeo.com/video/582902397"
                   },
                   {
                     "title": "Lecture 15 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-08-04 at 18:30 GMT-7)",
-                    "videoId": "582902475"
+                    "videoId": "582902475",
+                    "videoUrl": "https://player.vimeo.com/video/582902475"
                   },
                   {
                     "title": "Lecture 16 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-08-17 at 22:18 GMT-7)",
-                    "videoId": "597039712"
+                    "videoId": "597039712",
+                    "videoUrl": "https://player.vimeo.com/video/597039712"
                   },
                   {
                     "title": "Lecture 17 BCT I - Engineering Drawing I (Manoj Adhikari) (Group B) (2021-08-24 at 22:24 GMT-7)",
-                    "videoId": "597039551"
+                    "videoId": "597039551",
+                    "videoUrl": "https://player.vimeo.com/video/597039551"
                   }
                 ]
               },
@@ -602,67 +840,83 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-04-27 at 22:20 GMT-7)",
-                    "videoId": "543641782"
+                    "videoId": "543641782",
+                    "videoUrl": "https://player.vimeo.com/video/543641782"
                   },
                   {
                     "title": "Lecture 02 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-04 at 22:20 GMT-7)",
-                    "videoId": "545422274"
+                    "videoId": "545422274",
+                    "videoUrl": "https://player.vimeo.com/video/545422274"
                   },
                   {
                     "title": "Lecture 03 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-11 at 22:17 GMT-7)",
-                    "videoId": "548679905"
+                    "videoId": "548679905",
+                    "videoUrl": "https://player.vimeo.com/video/548679905"
                   },
                   {
                     "title": "Lecture 04 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-18 at 22:18 GMT-7)",
-                    "videoId": "554180749"
+                    "videoId": "554180749",
+                    "videoUrl": "https://player.vimeo.com/video/554180749"
                   },
                   {
                     "title": "Lecture 05 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-05-25 at 22:18 GMT-7)",
-                    "videoId": "554660084"
+                    "videoId": "554660084",
+                    "videoUrl": "https://player.vimeo.com/video/554660084"
                   },
                   {
                     "title": "Lecture 06 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-06-01 at 22:19 GMT-7)",
-                    "videoId": "557910123"
+                    "videoId": "557910123",
+                    "videoUrl": "https://player.vimeo.com/video/557910123"
                   },
                   {
                     "title": "Lecture 07 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-06-08 at 22:17 GMT-7)",
-                    "videoId": "560720503"
+                    "videoId": "560720503",
+                    "videoUrl": "https://player.vimeo.com/video/560720503"
                   },
                   {
                     "title": "Lecture 08 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-06-15 at 22:18 GMT-7)",
-                    "videoId": "564014074"
+                    "videoId": "564014074",
+                    "videoUrl": "https://player.vimeo.com/video/564014074"
                   },
                   {
                     "title": "Lecture 10 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-07-06 at 22:22 GMT-7)",
-                    "videoId": "572166572"
+                    "videoId": "572166572",
+                    "videoUrl": "https://player.vimeo.com/video/572166572"
                   },
                   {
                     "title": "Lecture 11 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-07-13 at 22:21 GMT-7)",
-                    "videoId": "574850512"
+                    "videoId": "574850512",
+                    "videoUrl": "https://player.vimeo.com/video/574850512"
                   },
                   {
                     "title": "Lecture 12 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-07-20 at 22:21 GMT-7)",
-                    "videoId": "577124619"
+                    "videoId": "577124619",
+                    "videoUrl": "https://player.vimeo.com/video/577124619"
                   },
                   {
                     "title": "Lecture 13 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-07-27 at 22:17 GMT-7)",
-                    "videoId": "579803171"
+                    "videoId": "579803171",
+                    "videoUrl": "https://player.vimeo.com/video/579803171"
                   },
                   {
                     "title": "Lecture 14 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-08-03 at 22:24 GMT-7)",
-                    "videoId": "582902432"
+                    "videoId": "582902432",
+                    "videoUrl": "https://player.vimeo.com/video/582902432"
                   },
                   {
                     "title": "Lecture 15 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-08-17 at 22:20 GMT-7)",
-                    "videoId": "597039747"
+                    "videoId": "597039747",
+                    "videoUrl": "https://player.vimeo.com/video/597039747"
                   },
                   {
                     "title": "Lecture 16 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-08-24 at 22:18 GMT-7)",
-                    "videoId": "597039590"
+                    "videoId": "597039590",
+                    "videoUrl": "https://player.vimeo.com/video/597039590"
                   },
                   {
                     "title": "Lecture 17 BCT I - Engineering Drawing I (Amrit Karki) (Group A) (2021-08-29 at 21:17 GMT-7)",
-                    "videoId": "597039527"
+                    "videoId": "597039527",
+                    "videoUrl": "https://player.vimeo.com/video/597039527"
                   }
                 ]
               }
@@ -676,119 +930,148 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-04-26 at 19:56 GMT-7)",
-                    "videoId": "543484542"
+                    "videoId": "543484542",
+                    "videoUrl": "https://player.vimeo.com/video/543484542"
                   },
                   {
                     "title": "Lecture 02 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-04-28 at 19:59 GMT-7)",
-                    "videoId": "543484557"
+                    "videoId": "543484557",
+                    "videoUrl": "https://player.vimeo.com/video/543484557"
                   },
                   {
                     "title": "Lecture 03 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-04-29 at 20:10 GMT-7)",
-                    "videoId": "543484585"
+                    "videoId": "543484585",
+                    "videoUrl": "https://player.vimeo.com/video/543484585"
                   },
                   {
                     "title": "Lecture 04 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-03 at 19:57 GMT-7)",
-                    "videoId": "545409970"
+                    "videoId": "545409970",
+                    "videoUrl": "https://player.vimeo.com/video/545409970"
                   },
                   {
                     "title": "Lecture 05 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-06 at 19:57 GMT-7)",
-                    "videoId": "545853855"
+                    "videoId": "545853855",
+                    "videoUrl": "https://player.vimeo.com/video/545853855"
                   },
                   {
                     "title": "Lecture 06 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-10 at 20:09 GMT-7)",
-                    "videoId": "548678995"
+                    "videoId": "548678995",
+                    "videoUrl": "https://player.vimeo.com/video/548678995"
                   },
                   {
                     "title": "Lecture 07 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-11 at 20:04 GMT-7)",
-                    "videoId": "548679006"
+                    "videoId": "548679006",
+                    "videoUrl": "https://player.vimeo.com/video/548679006"
                   },
                   {
                     "title": "Lecture 08 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-13 at 19:57 GMT-7)",
-                    "videoId": "548756728"
+                    "videoId": "548756728",
+                    "videoUrl": "https://player.vimeo.com/video/548756728"
                   },
                   {
                     "title": "Lecture 09 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-17 at 19:58 GMT-7)",
-                    "videoId": "551359058"
+                    "videoId": "551359058",
+                    "videoUrl": "https://player.vimeo.com/video/551359058"
                   },
                   {
                     "title": "Lecture 10 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-20 at 19:56 GMT-7)",
-                    "videoId": "552965318"
+                    "videoId": "552965318",
+                    "videoUrl": "https://player.vimeo.com/video/552965318"
                   },
                   {
                     "title": "Lecture 11 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-24 at 19:59 GMT-7)",
-                    "videoId": "554561904"
+                    "videoId": "554561904",
+                    "videoUrl": "https://player.vimeo.com/video/554561904"
                   },
                   {
                     "title": "Lecture 12 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-25 at 19:57 GMT-7)",
-                    "videoId": "554659795"
+                    "videoId": "554659795",
+                    "videoUrl": "https://player.vimeo.com/video/554659795"
                   },
                   {
                     "title": "Lecture 13 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-27 at 19:57 GMT-7)",
-                    "videoId": "555755021"
+                    "videoId": "555755021",
+                    "videoUrl": "https://player.vimeo.com/video/555755021"
                   },
                   {
                     "title": "Lecture 14 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-05-31 at 19:55 GMT-7)",
-                    "videoId": "557147102"
+                    "videoId": "557147102",
+                    "videoUrl": "https://player.vimeo.com/video/557147102"
                   },
                   {
                     "title": "Lecture 15 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-03 at 19:57 GMT-7)",
-                    "videoId": "558937059"
+                    "videoId": "558937059",
+                    "videoUrl": "https://player.vimeo.com/video/558937059"
                   },
                   {
                     "title": "Lecture 16 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-07 at 19:57 GMT-7)",
-                    "videoId": "559885076"
+                    "videoId": "559885076",
+                    "videoUrl": "https://player.vimeo.com/video/559885076"
                   },
                   {
                     "title": "Lecture 17 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-08 at 20:01 GMT-7)",
-                    "videoId": "560720091"
+                    "videoId": "560720091",
+                    "videoUrl": "https://player.vimeo.com/video/560720091"
                   },
                   {
                     "title": "Lecture 18 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-10 at 20:02 GMT-7)",
-                    "videoId": "561705453"
+                    "videoId": "561705453",
+                    "videoUrl": "https://player.vimeo.com/video/561705453"
                   },
                   {
                     "title": "Lecture 19 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-14 at 19:59 GMT-7)",
-                    "videoId": "562706050"
+                    "videoId": "562706050",
+                    "videoUrl": "https://player.vimeo.com/video/562706050"
                   },
                   {
                     "title": "Lecture 20 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-15 at 20:00 GMT-7)",
-                    "videoId": "564014429"
+                    "videoId": "564014429",
+                    "videoUrl": "https://player.vimeo.com/video/564014429"
                   },
                   {
                     "title": "Lecture 21 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-17 at 20:06 GMT-7)",
-                    "videoId": "564070238"
+                    "videoId": "564070238",
+                    "videoUrl": "https://player.vimeo.com/video/564070238"
                   },
                   {
                     "title": "Lecture 22 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-06-21 at 20:00 GMT-7)",
-                    "videoId": "565540681"
+                    "videoId": "565540681",
+                    "videoUrl": "https://player.vimeo.com/video/565540681"
                   },
                   {
                     "title": "Lecture 23 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-08 at 20:03 GMT-7)",
-                    "videoId": "572544025"
+                    "videoId": "572544025",
+                    "videoUrl": "https://player.vimeo.com/video/572544025"
                   },
                   {
                     "title": "Lecture 24 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-12 at 19:59 GMT-7)",
-                    "videoId": "573951077"
+                    "videoId": "573951077",
+                    "videoUrl": "https://player.vimeo.com/video/573951077"
                   },
                   {
                     "title": "Lecture 25 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-13 at 19:56 GMT-7)",
-                    "videoId": "574849285"
+                    "videoId": "574849285",
+                    "videoUrl": "https://player.vimeo.com/video/574849285"
                   },
                   {
                     "title": "Lecture 26 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-15 at 19:56 GMT-7)",
-                    "videoId": "575775570"
+                    "videoId": "575775570",
+                    "videoUrl": "https://player.vimeo.com/video/575775570"
                   },
                   {
                     "title": "Lecture 27 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-19 at 19:56 GMT-7)",
-                    "videoId": "577124348"
+                    "videoId": "577124348",
+                    "videoUrl": "https://player.vimeo.com/video/577124348"
                   },
                   {
                     "title": "Lecture 28 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-20 at 19:56 GMT-7)",
-                    "videoId": "577124374"
+                    "videoId": "577124374",
+                    "videoUrl": "https://player.vimeo.com/video/577124374"
                   },
                   {
                     "title": "Lecture 29 BCT I - Basic Electrical Engineering (Laxman Timilsina) (2021-07-22 at 19:56 GMT-7)",
-                    "videoId": "578295303"
+                    "videoId": "578295303",
+                    "videoUrl": "https://player.vimeo.com/video/578295303"
                   }
                 ]
               }
@@ -802,147 +1085,183 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-26 at 18:13 GMT-7)",
-                    "videoId": "543636310"
+                    "videoId": "543636310",
+                    "videoUrl": "https://player.vimeo.com/video/543636310"
                   },
                   {
                     "title": "Lecture 02 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-28 at 18:15 GMT-7)",
-                    "videoId": "543636338"
+                    "videoId": "543636338",
+                    "videoUrl": "https://player.vimeo.com/video/543636338"
                   },
                   {
                     "title": "Lecture 03 BCT I - Computer Programming (Kashiram Pokharel) (2021-04-30 at 18:17 GMT-7)",
-                    "videoId": "543636369"
+                    "videoId": "543636369",
+                    "videoUrl": "https://player.vimeo.com/video/543636369"
                   },
                   {
                     "title": "Lecture 04 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-03 at 18:15 GMT-7)",
-                    "videoId": "545370240"
+                    "videoId": "545370240",
+                    "videoUrl": "https://player.vimeo.com/video/545370240"
                   },
                   {
                     "title": "Lecture 05 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-05 at 18:15 GMT-7)",
-                    "videoId": "545420878"
+                    "videoId": "545420878",
+                    "videoUrl": "https://player.vimeo.com/video/545420878"
                   },
                   {
                     "title": "Lecture 06 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-07 at 18:17 GMT-7)",
-                    "videoId": "546392275"
+                    "videoId": "546392275",
+                    "videoUrl": "https://player.vimeo.com/video/546392275"
                   },
                   {
                     "title": "Lecture 07 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-10 at 18:17 GMT-7)",
-                    "videoId": "548679426"
+                    "videoId": "548679426",
+                    "videoUrl": "https://player.vimeo.com/video/548679426"
                   },
                   {
                     "title": "Lecture 08 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-12 at 18:19 GMT-7)",
-                    "videoId": "548679441"
+                    "videoId": "548679441",
+                    "videoUrl": "https://player.vimeo.com/video/548679441"
                   },
                   {
                     "title": "Lecture 09 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-14 at 18:19 GMT-7)",
-                    "videoId": "549203551"
+                    "videoId": "549203551",
+                    "videoUrl": "https://player.vimeo.com/video/549203551"
                   },
                   {
                     "title": "Lecture 10 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-17 at 18:18 GMT-7)",
-                    "videoId": "551358785"
+                    "videoId": "551358785",
+                    "videoUrl": "https://player.vimeo.com/video/551358785"
                   },
                   {
                     "title": "Lecture 11 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-19 at 18:16 GMT-7)",
-                    "videoId": "552964735"
+                    "videoId": "552964735",
+                    "videoUrl": "https://player.vimeo.com/video/552964735"
                   },
                   {
                     "title": "Lecture 12 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-21 at 18:16 GMT-7)",
-                    "videoId": "553839635"
+                    "videoId": "553839635",
+                    "videoUrl": "https://player.vimeo.com/video/553839635"
                   },
                   {
                     "title": "Lecture 13 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-24 at 18:16 GMT-7)",
-                    "videoId": "554561608"
+                    "videoId": "554561608",
+                    "videoUrl": "https://player.vimeo.com/video/554561608"
                   },
                   {
                     "title": "Lecture 14 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-28 at 18:17 GMT-7)",
-                    "videoId": "556597532"
+                    "videoId": "556597532",
+                    "videoUrl": "https://player.vimeo.com/video/556597532"
                   },
                   {
                     "title": "Lecture 15 BCT I - Computer Programming (Kashiram Pokharel) (2021-05-31 at 18:15 GMT-7)",
-                    "videoId": "557146161"
+                    "videoId": "557146161",
+                    "videoUrl": "https://player.vimeo.com/video/557146161"
                   },
                   {
                     "title": "Lecture 16 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-02 at 18:15 GMT-7)",
-                    "videoId": "558388214"
+                    "videoId": "558388214",
+                    "videoUrl": "https://player.vimeo.com/video/558388214"
                   },
                   {
                     "title": "Lecture 17 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-04 at 18:16 GMT-7)",
-                    "videoId": "559007075"
+                    "videoId": "559007075",
+                    "videoUrl": "https://player.vimeo.com/video/559007075"
                   },
                   {
                     "title": "Lecture 18 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-07 at 18:16 GMT-7)",
-                    "videoId": "559886506"
+                    "videoId": "559886506",
+                    "videoUrl": "https://player.vimeo.com/video/559886506"
                   },
                   {
                     "title": "Lecture 19 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-09 at 18:17 GMT-7)",
-                    "videoId": "561190170"
+                    "videoId": "561190170",
+                    "videoUrl": "https://player.vimeo.com/video/561190170"
                   },
                   {
                     "title": "Lecture 20 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-11 at 18:16 GMT-7)",
-                    "videoId": "561738481"
+                    "videoId": "561738481",
+                    "videoUrl": "https://player.vimeo.com/video/561738481"
                   },
                   {
                     "title": "Lecture 21 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-14 at 18:15 GMT-7)",
-                    "videoId": "562705684"
+                    "videoId": "562705684",
+                    "videoUrl": "https://player.vimeo.com/video/562705684"
                   },
                   {
                     "title": "Lecture 22 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-16 at 18:15 GMT-7)",
-                    "videoId": "564014263"
+                    "videoId": "564014263",
+                    "videoUrl": "https://player.vimeo.com/video/564014263"
                   },
                   {
                     "title": "Lecture 23 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-18 at 18:15 GMT-7)",
-                    "videoId": "564571157"
+                    "videoId": "564571157",
+                    "videoUrl": "https://player.vimeo.com/video/564571157"
                   },
                   {
                     "title": "Lecture 24 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-21 at 18:16 GMT-7)",
-                    "videoId": "565541368"
+                    "videoId": "565541368",
+                    "videoUrl": "https://player.vimeo.com/video/565541368"
                   },
                   {
                     "title": "Lecture 25 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-23 at 18:20 GMT-7)",
-                    "videoId": "566527868"
+                    "videoId": "566527868",
+                    "videoUrl": "https://player.vimeo.com/video/566527868"
                   },
                   {
                     "title": "Lecture 26 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-28 at 18:15 GMT-7)",
-                    "videoId": "568853180"
+                    "videoId": "568853180",
+                    "videoUrl": "https://player.vimeo.com/video/568853180"
                   },
                   {
                     "title": "Lecture 27 BCT I - Computer Programming (Kashiram Pokharel) (2021-06-30 at 18:15 GMT-7)",
-                    "videoId": "569422937"
+                    "videoId": "569422937",
+                    "videoUrl": "https://player.vimeo.com/video/569422937"
                   },
                   {
                     "title": "Lecture 28 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-07 at 18:15 GMT-7)",
-                    "videoId": "572165117"
+                    "videoId": "572165117",
+                    "videoUrl": "https://player.vimeo.com/video/572165117"
                   },
                   {
                     "title": "Lecture 29 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-09 at 18:15 GMT-7)",
-                    "videoId": "573300693"
+                    "videoId": "573300693",
+                    "videoUrl": "https://player.vimeo.com/video/573300693"
                   },
                   {
                     "title": "Lecture 30 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-12 at 18:16 GMT-7)",
-                    "videoId": "573950781"
+                    "videoId": "573950781",
+                    "videoUrl": "https://player.vimeo.com/video/573950781"
                   },
                   {
                     "title": "Lecture 31 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-14 at 18:15 GMT-7)",
-                    "videoId": "574848055"
+                    "videoId": "574848055",
+                    "videoUrl": "https://player.vimeo.com/video/574848055"
                   },
                   {
                     "title": "Lecture 32 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-16 at 18:16 GMT-7)",
-                    "videoId": "575775055"
+                    "videoId": "575775055",
+                    "videoUrl": "https://player.vimeo.com/video/575775055"
                   },
                   {
                     "title": "Lecture 33 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-19 at 18:15 GMT-7)",
-                    "videoId": "577123668"
+                    "videoId": "577123668",
+                    "videoUrl": "https://player.vimeo.com/video/577123668"
                   },
                   {
                     "title": "Lecture 34 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-23 at 18:15 GMT-7)",
-                    "videoId": "578952741"
+                    "videoId": "578952741",
+                    "videoUrl": "https://player.vimeo.com/video/578952741"
                   },
                   {
                     "title": "Lecture 35 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-26 at 18:16 GMT-7)",
-                    "videoId": "579343367"
+                    "videoId": "579343367",
+                    "videoUrl": "https://player.vimeo.com/video/579343367"
                   },
                   {
                     "title": "Lecture 36 BCT I - Computer Programming (Kashiram Pokharel) (2021-07-28 at 18:27 GMT-7)",
-                    "videoId": "580794110"
+                    "videoId": "580794110",
+                    "videoUrl": "https://player.vimeo.com/video/580794110"
                   }
                 ]
               }
@@ -956,95 +1275,118 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-04-25 at 20:00 GMT-7)",
-                    "videoId": "543512989"
+                    "videoId": "543512989",
+                    "videoUrl": "https://player.vimeo.com/video/543512989"
                   },
                   {
                     "title": "Lecture 04 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-05-02 at 20:01 GMT-7)",
-                    "videoId": "544207555"
+                    "videoId": "544207555",
+                    "videoUrl": "https://player.vimeo.com/video/544207555"
                   },
                   {
                     "title": "Lecture 07 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-05-09 at 18:26 GMT-7)",
-                    "videoId": "547087644"
+                    "videoId": "547087644",
+                    "videoUrl": "https://player.vimeo.com/video/547087644"
                   },
                   {
                     "title": "Lecture 08 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-05-10 at 22:23 GMT-7)",
-                    "videoId": "548678558"
+                    "videoId": "548678558",
+                    "videoUrl": "https://player.vimeo.com/video/548678558"
                   },
                   {
                     "title": "Lecture 11 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-05-17 at 22:20 GMT-7)",
-                    "videoId": "551359405"
+                    "videoId": "551359405",
+                    "videoUrl": "https://player.vimeo.com/video/551359405"
                   },
                   {
                     "title": "Lecture 13 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-05-23 at 18:26 GMT-7)",
-                    "videoId": "554175681"
+                    "videoId": "554175681",
+                    "videoUrl": "https://player.vimeo.com/video/554175681"
                   },
                   {
                     "title": "Lecture 14 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-05-24 at 22:22 GMT-7)",
-                    "videoId": "554588247"
+                    "videoId": "554588247",
+                    "videoUrl": "https://player.vimeo.com/video/554588247"
                   },
                   {
                     "title": "Lecture 16 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-05-30 at 18:22 GMT-7)",
-                    "videoId": "556865562"
+                    "videoId": "556865562",
+                    "videoUrl": "https://player.vimeo.com/video/556865562"
                   },
                   {
                     "title": "Lecture 17 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-05-31 at 22:22 GMT-7)",
-                    "videoId": "557146740"
+                    "videoId": "557146740",
+                    "videoUrl": "https://player.vimeo.com/video/557146740"
                   },
                   {
                     "title": "Lecture 20 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-06-06 at 18:24 GMT-7)",
-                    "videoId": "559577499"
+                    "videoId": "559577499",
+                    "videoUrl": "https://player.vimeo.com/video/559577499"
                   },
                   {
                     "title": "Lecture 21 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-06-07 at 22:25 GMT-7)",
-                    "videoId": "559885810"
+                    "videoId": "559885810",
+                    "videoUrl": "https://player.vimeo.com/video/559885810"
                   },
                   {
                     "title": "Lecture 24 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-06-13 at 18:23 GMT-7)",
-                    "videoId": "562621195"
+                    "videoId": "562621195",
+                    "videoUrl": "https://player.vimeo.com/video/562621195"
                   },
                   {
                     "title": "Lecture 25 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-06-20 at 18:24 GMT-7)",
-                    "videoId": "565199717"
+                    "videoId": "565199717",
+                    "videoUrl": "https://player.vimeo.com/video/565199717"
                   },
                   {
                     "title": "Lecture 26 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-06-21 at 22:22 GMT-7)",
-                    "videoId": "565541056"
+                    "videoId": "565541056",
+                    "videoUrl": "https://player.vimeo.com/video/565541056"
                   },
                   {
                     "title": "Lecture 32 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-05 at 22:20 GMT-7)",
-                    "videoId": "571191055"
+                    "videoId": "571191055",
+                    "videoUrl": "https://player.vimeo.com/video/571191055"
                   },
                   {
                     "title": "Lecture 35 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-07-11 at 18:26 GMT-7)",
-                    "videoId": "573654500"
+                    "videoId": "573654500",
+                    "videoUrl": "https://player.vimeo.com/video/573654500"
                   },
                   {
                     "title": "Lecture 36 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-12 at 22:23 GMT-7)",
-                    "videoId": "573950414"
+                    "videoId": "573950414",
+                    "videoUrl": "https://player.vimeo.com/video/573950414"
                   },
                   {
                     "title": "Lecture 39 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-07-18 at 18:27 GMT-7)",
-                    "videoId": "576374875"
+                    "videoId": "576374875",
+                    "videoUrl": "https://player.vimeo.com/video/576374875"
                   },
                   {
                     "title": "Lecture 40 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-19 at 22:21 GMT-7)",
-                    "videoId": "577124960"
+                    "videoId": "577124960",
+                    "videoUrl": "https://player.vimeo.com/video/577124960"
                   },
                   {
                     "title": "Lecture 42 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-07-25 at 18:22 GMT-7)",
-                    "videoId": "579291056"
+                    "videoId": "579291056",
+                    "videoUrl": "https://player.vimeo.com/video/579291056"
                   },
                   {
                     "title": "Lecture 43 BCT I - Engineering Math I  (Aarjan Kumar Sunar) (2021-07-26 at 22:21 GMT-7)",
-                    "videoId": "579343051"
+                    "videoId": "579343051",
+                    "videoUrl": "https://player.vimeo.com/video/579343051"
                   },
                   {
                     "title": "Lecture 46 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-08-01 at 18:22 GMT-7)",
-                    "videoId": "581753670"
+                    "videoId": "581753670",
+                    "videoUrl": "https://player.vimeo.com/video/581753670"
                   },
                   {
                     "title": "Lecture 49 BCT I - Engineering Math I (Aarjan Kumar Sunar) (2021-08-08 at 18:23 GMT-7)",
-                    "videoId": "584480655"
+                    "videoId": "584480655",
+                    "videoUrl": "https://player.vimeo.com/video/584480655"
                   }
                 ]
               },
@@ -1053,99 +1395,123 @@
                 "videos": [
                   {
                     "title": "Lecture 06 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-05-05 at 19:59 GMT-7)",
-                    "videoId": "545406731"
+                    "videoId": "545406731",
+                    "videoUrl": "https://player.vimeo.com/video/545406731"
                   },
                   {
                     "title": "Lecture 09 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-05-12 at 20:01 GMT-7)",
-                    "videoId": "548678567"
+                    "videoId": "548678567",
+                    "videoUrl": "https://player.vimeo.com/video/548678567"
                   },
                   {
                     "title": "Lecture 10 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-05-14 at 19:58 GMT-7)",
-                    "videoId": "549203153"
+                    "videoId": "549203153",
+                    "videoUrl": "https://player.vimeo.com/video/549203153"
                   },
                   {
                     "title": "Lecture 12 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-05-19 at 22:16 GMT-7)",
-                    "videoId": "552963984"
+                    "videoId": "552963984",
+                    "videoUrl": "https://player.vimeo.com/video/552963984"
                   },
                   {
                     "title": "Lecture 15 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-05-28 at 19:59 GMT-7)",
-                    "videoId": "556597131"
+                    "videoId": "556597131",
+                    "videoUrl": "https://player.vimeo.com/video/556597131"
                   },
                   {
                     "title": "Lecture 18 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-02 at 19:58 GMT-7)",
-                    "videoId": "558387595"
+                    "videoId": "558387595",
+                    "videoUrl": "https://player.vimeo.com/video/558387595"
                   },
                   {
                     "title": "Lecture 19 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-04 at 19:58 GMT-7)",
-                    "videoId": "559005884"
+                    "videoId": "559005884",
+                    "videoUrl": "https://player.vimeo.com/video/559005884"
                   },
                   {
                     "title": "Lecture 22 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-09 at 19:59 GMT-7)",
-                    "videoId": "561189756"
+                    "videoId": "561189756",
+                    "videoUrl": "https://player.vimeo.com/video/561189756"
                   },
                   {
                     "title": "Lecture 23 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-11 at 19:57 GMT-7)",
-                    "videoId": "561737983"
+                    "videoId": "561737983",
+                    "videoUrl": "https://player.vimeo.com/video/561737983"
                   },
                   {
                     "title": "Lecture 27 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-23 at 19:58 GMT-7)",
-                    "videoId": "566527234"
+                    "videoId": "566527234",
+                    "videoUrl": "https://player.vimeo.com/video/566527234"
                   },
                   {
                     "title": "Lecture 28 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-25 at 19:57 GMT-7)",
-                    "videoId": "567515571"
+                    "videoId": "567515571",
+                    "videoUrl": "https://player.vimeo.com/video/567515571"
                   },
                   {
                     "title": "Lecture 29 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-27 at 19:55 GMT-7)",
-                    "videoId": "568852733"
+                    "videoId": "568852733",
+                    "videoUrl": "https://player.vimeo.com/video/568852733"
                   },
                   {
                     "title": "Lecture 30 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-06-30 at 19:58 GMT-7)",
-                    "videoId": "569421598"
+                    "videoId": "569421598",
+                    "videoUrl": "https://player.vimeo.com/video/569421598"
                   },
                   {
                     "title": "Lecture 31 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-02 at 19:56 GMT-7)",
-                    "videoId": "570671390"
+                    "videoId": "570671390",
+                    "videoUrl": "https://player.vimeo.com/video/570671390"
                   },
                   {
                     "title": "Lecture 33 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-07 at 19:57 GMT-7)",
-                    "videoId": "572162695"
+                    "videoId": "572162695",
+                    "videoUrl": "https://player.vimeo.com/video/572162695"
                   },
                   {
                     "title": "Lecture 34 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-09 at 19:56 GMT-7)",
-                    "videoId": "573082778"
+                    "videoId": "573082778",
+                    "videoUrl": "https://player.vimeo.com/video/573082778"
                   },
                   {
                     "title": "Lecture 37 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-14 at 19:58 GMT-7)",
-                    "videoId": "574846801"
+                    "videoId": "574846801",
+                    "videoUrl": "https://player.vimeo.com/video/574846801"
                   },
                   {
                     "title": "Lecture 38 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-16 at 20:16 GMT-7)",
-                    "videoId": "575776478"
+                    "videoId": "575776478",
+                    "videoUrl": "https://player.vimeo.com/video/575776478"
                   },
                   {
                     "title": "Lecture 41 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-23 at 19:58 GMT-7)",
-                    "videoId": "578952470"
+                    "videoId": "578952470",
+                    "videoUrl": "https://player.vimeo.com/video/578952470"
                   },
                   {
                     "title": "Lecture 44 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-28 at 19:57 GMT-7)",
-                    "videoId": "580792618"
+                    "videoId": "580792618",
+                    "videoUrl": "https://player.vimeo.com/video/580792618"
                   },
                   {
                     "title": "Lecture 45 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-07-30 at 19:58 GMT-7)",
-                    "videoId": "581693642"
+                    "videoId": "581693642",
+                    "videoUrl": "https://player.vimeo.com/video/581693642"
                   },
                   {
                     "title": "Lecture 47 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-08-04 at 19:57 GMT-7)",
-                    "videoId": "582900244"
+                    "videoId": "582900244",
+                    "videoUrl": "https://player.vimeo.com/video/582900244"
                   },
                   {
                     "title": "Lecture 48 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-08-06 at 19:57 GMT-7)",
-                    "videoId": "584440838"
+                    "videoId": "584440838",
+                    "videoUrl": "https://player.vimeo.com/video/584440838"
                   },
                   {
                     "title": "Lecture 50 BCT I - Engineering Math I (Anjana Devi Bhandari) (2021-08-17 at 19:16 GMT-7)",
-                    "videoId": "597038197"
+                    "videoId": "597038197",
+                    "videoUrl": "https://player.vimeo.com/video/597038197"
                   }
                 ]
               }
@@ -1159,187 +1525,233 @@
                 "videos": [
                   {
                     "title": "Lecture 01 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-04-29 at 22:20 GMT-7)",
-                    "videoId": "543649390"
+                    "videoId": "543649390",
+                    "videoUrl": "https://player.vimeo.com/video/543649390"
                   },
                   {
                     "title": "Lecture 02 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-04-30 at 19:57 GMT-7)",
-                    "videoId": "543642923"
+                    "videoId": "543642923",
+                    "videoUrl": "https://player.vimeo.com/video/543642923"
                   },
                   {
                     "title": "Lecture 03 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-05-06 at 22:17 GMT-7)",
-                    "videoId": "545856230"
+                    "videoId": "545856230",
+                    "videoUrl": "https://player.vimeo.com/video/545856230"
                   },
                   {
                     "title": "Lecture 04 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-07 at 23:50 GMT-7)",
-                    "videoId": "546392580"
+                    "videoId": "546392580",
+                    "videoUrl": "https://player.vimeo.com/video/546392580"
                   },
                   {
                     "title": "Lecture 05 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-09 at 20:05 GMT-7)",
-                    "videoId": "547087767"
+                    "videoId": "547087767",
+                    "videoUrl": "https://player.vimeo.com/video/547087767"
                   },
                   {
                     "title": "Lecture 06 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-05-13 at 22:24 GMT-7)",
-                    "videoId": "548790300"
+                    "videoId": "548790300",
+                    "videoUrl": "https://player.vimeo.com/video/548790300"
                   },
                   {
                     "title": "Lecture 07 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-14 at 23:49 GMT-7)",
-                    "videoId": "549204166"
+                    "videoId": "549204166",
+                    "videoUrl": "https://player.vimeo.com/video/549204166"
                   },
                   {
                     "title": "Lecture 08 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-16 at 20:04 GMT-7)",
-                    "videoId": "549820306"
+                    "videoId": "549820306",
+                    "videoUrl": "https://player.vimeo.com/video/549820306"
                   },
                   {
                     "title": "Lecture 09 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-05-20 at 22:20 GMT-7)",
-                    "videoId": "552965904"
+                    "videoId": "552965904",
+                    "videoUrl": "https://player.vimeo.com/video/552965904"
                   },
                   {
                     "title": "Lecture 10 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-21 at 23:50 GMT-7)",
-                    "videoId": "553841594"
+                    "videoId": "553841594",
+                    "videoUrl": "https://player.vimeo.com/video/553841594"
                   },
                   {
                     "title": "Lecture 11 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-23 at 20:02 GMT-7)",
-                    "videoId": "554179203"
+                    "videoId": "554179203",
+                    "videoUrl": "https://player.vimeo.com/video/554179203"
                   },
                   {
                     "title": "Lecture 12 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-05-27 at 22:19 GMT-7)",
-                    "videoId": "555755897"
+                    "videoId": "555755897",
+                    "videoUrl": "https://player.vimeo.com/video/555755897"
                   },
                   {
                     "title": "Lecture 13 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-28 at 23:49 GMT-7)",
-                    "videoId": "556597830"
+                    "videoId": "556597830",
+                    "videoUrl": "https://player.vimeo.com/video/556597830"
                   },
                   {
                     "title": "Lecture 14 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-05-30 at 20:00 GMT-7)",
-                    "videoId": "556866331"
+                    "videoId": "556866331",
+                    "videoUrl": "https://player.vimeo.com/video/556866331"
                   },
                   {
                     "title": "Lecture 15 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-06-03 at 22:20 GMT-7)",
-                    "videoId": "558938441"
+                    "videoId": "558938441",
+                    "videoUrl": "https://player.vimeo.com/video/558938441"
                   },
                   {
                     "title": "Lecture 16 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-04 at 23:54 GMT-7)",
-                    "videoId": "559006667"
+                    "videoId": "559006667",
+                    "videoUrl": "https://player.vimeo.com/video/559006667"
                   },
                   {
                     "title": "Lecture 17 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-06 at 20:08 GMT-7)",
-                    "videoId": "559577787"
+                    "videoId": "559577787",
+                    "videoUrl": "https://player.vimeo.com/video/559577787"
                   },
                   {
                     "title": "Lecture 18 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-06-10 at 22:21 GMT-7)",
-                    "videoId": "561705683"
+                    "videoId": "561705683",
+                    "videoUrl": "https://player.vimeo.com/video/561705683"
                   },
                   {
                     "title": "Lecture 19 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-11 at 23:52 GMT-7)",
-                    "videoId": "561738750"
+                    "videoId": "561738750",
+                    "videoUrl": "https://player.vimeo.com/video/561738750"
                   },
                   {
                     "title": "Lecture 20 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-13 at 20:05 GMT-7)",
-                    "videoId": "562621395"
+                    "videoId": "562621395",
+                    "videoUrl": "https://player.vimeo.com/video/562621395"
                   },
                   {
                     "title": "Lecture 21 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-06-17 at 22:21 GMT-7)",
-                    "videoId": "564070529"
+                    "videoId": "564070529",
+                    "videoUrl": "https://player.vimeo.com/video/564070529"
                   },
                   {
                     "title": "Lecture 22 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-18 at 23:51 GMT-7)",
-                    "videoId": "564571407"
+                    "videoId": "564571407",
+                    "videoUrl": "https://player.vimeo.com/video/564571407"
                   },
                   {
                     "title": "Lecture 23 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-06-20 at 20:09 GMT-7)",
-                    "videoId": "565200052"
+                    "videoId": "565200052",
+                    "videoUrl": "https://player.vimeo.com/video/565200052"
                   },
                   {
                     "title": "Lecture 24 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-08 at 22:19 GMT-7)",
-                    "videoId": "572544578"
+                    "videoId": "572544578",
+                    "videoUrl": "https://player.vimeo.com/video/572544578"
                   },
                   {
                     "title": "Lecture 25 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-09 at 23:49 GMT-7)",
-                    "videoId": "573300813"
+                    "videoId": "573300813",
+                    "videoUrl": "https://player.vimeo.com/video/573300813"
                   },
                   {
                     "title": "Lecture 26 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-11 at 20:04 GMT-7)",
-                    "videoId": "573654779"
+                    "videoId": "573654779",
+                    "videoUrl": "https://player.vimeo.com/video/573654779"
                   },
                   {
                     "title": "Lecture 27 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-07-15 at 22:20 GMT-7)",
-                    "videoId": "575776033"
+                    "videoId": "575776033",
+                    "videoUrl": "https://player.vimeo.com/video/575776033"
                   },
                   {
                     "title": "Lecture 28 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-16 at 23:51 GMT-7)",
-                    "videoId": "575776058"
+                    "videoId": "575776058",
+                    "videoUrl": "https://player.vimeo.com/video/575776058"
                   },
                   {
                     "title": "Lecture 29 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-18 at 20:01 GMT-7)",
-                    "videoId": "576374962"
+                    "videoId": "576374962",
+                    "videoUrl": "https://player.vimeo.com/video/576374962"
                   },
                   {
                     "title": "Lecture 30 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-07-22 at 22:26 GMT-7)",
-                    "videoId": "578295931"
+                    "videoId": "578295931",
+                    "videoUrl": "https://player.vimeo.com/video/578295931"
                   },
                   {
                     "title": "Lecture 31 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-23 at 23:50 GMT-7)",
-                    "videoId": "578952839"
+                    "videoId": "578952839",
+                    "videoUrl": "https://player.vimeo.com/video/578952839"
                   },
                   {
                     "title": "Lecture 32 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-25 at 19:58 GMT-7)",
-                    "videoId": "579291569"
+                    "videoId": "579291569",
+                    "videoUrl": "https://player.vimeo.com/video/579291569"
                   },
                   {
                     "title": "Lecture 33 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-07-29 at 22:24 GMT-7)",
-                    "videoId": "580794640"
+                    "videoId": "580794640",
+                    "videoUrl": "https://player.vimeo.com/video/580794640"
                   },
                   {
                     "title": "Lecture 34 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-07-30 at 23:52 GMT-7)",
-                    "videoId": "581693963"
+                    "videoId": "581693963",
+                    "videoUrl": "https://player.vimeo.com/video/581693963"
                   },
                   {
                     "title": "Lecture 35 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-02 at 18:22 GMT-7)",
-                    "videoId": "582146206"
+                    "videoId": "582146206",
+                    "videoUrl": "https://player.vimeo.com/video/582146206"
                   },
                   {
                     "title": "Lecture 36 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-05 at 22:20 GMT-7)",
-                    "videoId": "583340777"
+                    "videoId": "583340777",
+                    "videoUrl": "https://player.vimeo.com/video/583340777"
                   },
                   {
                     "title": "Lecture 37 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-08-06 at 23:49 GMT-7)",
-                    "videoId": "584441351"
+                    "videoId": "584441351",
+                    "videoUrl": "https://player.vimeo.com/video/584441351"
                   },
                   {
                     "title": "Lecture 38 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-08-08 at 20:00 GMT-7)",
-                    "videoId": "584481085"
+                    "videoId": "584481085",
+                    "videoUrl": "https://player.vimeo.com/video/584481085"
                   },
                   {
                     "title": "Lecture 39 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-19 at 19:20 GMT-7)",
-                    "videoId": "597034201"
+                    "videoId": "597034201",
+                    "videoUrl": "https://player.vimeo.com/video/597034201"
                   },
                   {
                     "title": "Lecture 40 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-25 at 21:19 GMT-7)",
-                    "videoId": "597034102"
+                    "videoId": "597034102",
+                    "videoUrl": "https://player.vimeo.com/video/597034102"
                   },
                   {
                     "title": "Lecture 41 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-26 at 21:22 GMT-7)",
-                    "videoId": "597034049"
+                    "videoId": "597034049",
+                    "videoUrl": "https://player.vimeo.com/video/597034049"
                   },
                   {
                     "title": "Lecture 42 BCT I - Applied Mechnics (Sachin Kumar Yadav) (2021-08-27 at 21:19 GMT-7)",
-                    "videoId": "597034016"
+                    "videoId": "597034016",
+                    "videoUrl": "https://player.vimeo.com/video/597034016"
                   },
                   {
                     "title": "Lecture 43 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-08-29 at 18:18 GMT-7)",
-                    "videoId": "597033993"
+                    "videoId": "597033993",
+                    "videoUrl": "https://player.vimeo.com/video/597033993"
                   },
                   {
                     "title": "Lecture 44 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-08-31 at 18:18 GMT-7)",
-                    "videoId": "597033906"
+                    "videoId": "597033906",
+                    "videoUrl": "https://player.vimeo.com/video/597033906"
                   },
                   {
                     "title": "Lecture 45 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-09-01 at 18:19 GMT-7)",
-                    "videoId": "597033776"
+                    "videoId": "597033776",
+                    "videoUrl": "https://player.vimeo.com/video/597033776"
                   },
                   {
                     "title": "Lecture 46 BCT I - Applied Mechanics (Sachin Kumar Yadav) (2021-09-02 at 18:27 GMT-7)",
-                    "videoId": "597033752"
+                    "videoId": "597033752",
+                    "videoUrl": "https://player.vimeo.com/video/597033752"
                   }
                 ]
               }
