@@ -208,6 +208,71 @@
             "subject": "Basic Electronics Engineering",
             "teacher": [
               {
+                "name": "Atmaram",
+                "videos": [
+                  {
+                    "title": "Lecture 01 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-01-13 at 17:27 GMT-8)",
+                    "videoId": "667641231",
+                    "videoUrl": "https://player.vimeo.com/video/667641231?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 02 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-01-17 at 17:30 GMT-8)",
+                    "videoId": "669356119",
+                    "videoUrl": "https://player.vimeo.com/video/669356119?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 03 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-01-19 at 19:14 GMT-8)",
+                    "videoId": "669356150",
+                    "videoUrl": "https://player.vimeo.com/video/669356150?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 04 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-01-20 at 17:24 GMT-8)",
+                    "videoId": "669356226",
+                    "videoUrl": "https://player.vimeo.com/video/669356226?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 05 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-01-24 at 17:21 GMT-8)",
+                    "videoId": "669356277",
+                    "videoUrl": "https://player.vimeo.com/video/669356277?autoplay=1"
+                  },
+                  {
+                    "title": "Practical 01 2077 BCT I/II - Basic Electronics Engineering Practical (Atmaram Neupane) (2022-01-24 at 22:55 GMT-8)",
+                    "videoId": "670115196",
+                    "videoUrl": "https://player.vimeo.com/video/670115196?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 06 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-02 at 18:57 GMT-8)",
+                    "videoId": "672635559",
+                    "videoUrl": "https://player.vimeo.com/video/672635559?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 07 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-03 at 17:21 GMT-8)",
+                    "videoId": "673476237",
+                    "videoUrl": "https://player.vimeo.com/video/673476237?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 08 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-07 17:20 GMT-8)",
+                    "videoId": "674302278",
+                    "videoUrl": "https://player.vimeo.com/video/674302278?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 09 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-09 19:03 GMT-8)",
+                    "videoId": "675712433",
+                    "videoUrl": "https://player.vimeo.com/video/675712433?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 10 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-16 19:06 GMT-8)",
+                    "videoId": "678515068",
+                    "videoUrl": "https://player.vimeo.com/video/678515068?autoplay=1"
+                  },
+                  {
+                    "title": "Lecture 11 2077 BCT I/II - Basic Electronics Engineering (Atmaram Neupane) (2022-02-28 17:17 GMT-8)",
+                    "videoId": "687589027",
+                    "videoUrl": "https://player.vimeo.com/video/687589027?autoplay=1"
+                  }
+                ]
+              },
+              {
                 "name": "Sashiram Dahal",
                 "videos": [
                   {
