@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "683277835308",
+    "project_id": "kathford-5e626",
+    "storage_bucket": "kathford-5e626.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683277835308:android:b854fafd0802d7a375c589",
+        "android_client_info": {
+          "package_name": "np.com.samirk.kathford"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "683277835308-nabillha4rikt1tl2e27sqsvm5pef7gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUWOxPPLo7a9qrkECDgP8C-KcY4MZH3Bg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "683277835308-nabillha4rikt1tl2e27sqsvm5pef7gt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "683277835308-1n30l25lhgkj24i2fd65busohba8bejp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "np.com.samirk.kathford"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
