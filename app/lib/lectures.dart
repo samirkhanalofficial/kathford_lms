@@ -122,5 +122,8 @@ class _LecturesState extends State<Lectures> {
 }
 
 navigate(BuildContext context, String title, String id) {
-  launchUrl(Uri.parse("https://player.vimeo.com/video/$id?loop=0&autoplay=1"));
+  launchUrl(
+    Uri.parse("https://player.vimeo.com/video/$id?loop=0&autoplay=1"),
+    mode: LaunchMode.inAppWebView,
+  );
 }

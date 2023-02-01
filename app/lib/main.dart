@@ -81,11 +81,11 @@ class _HomeScreenState extends State<HomeScreen> {
             body: ListView(
               physics: BouncingScrollPhysics(),
               children: [
-                ElevatedButton(
-                    onPressed: () {
-                      loaddata();
-                    },
-                    child: Text("reload")),
+                // ElevatedButton(
+                //     onPressed: () {
+                //       loaddata();
+                //     },
+                //     child: Text("reload")),
                 Padding(
                   padding: const EdgeInsets.all(38.0),
                   child: Container(
