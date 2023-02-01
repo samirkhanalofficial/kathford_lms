@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_fonts/google_fonts.dart';
-import 'package:kathfordlmsvideo/VideoPlayer.dart';
 import 'package:url_launcher/url_launcher.dart';
 
 class Lectures extends StatefulWidget {
@@ -123,5 +122,5 @@ class _LecturesState extends State<Lectures> {
 }
 
 navigate(BuildContext context, String title, String id) {
-  launch("https://player.vimeo.com/video/$id?loop=0&autoplay=1");
+  launchUrl(Uri.parse("https://player.vimeo.com/video/$id?loop=0&autoplay=1"));
 }

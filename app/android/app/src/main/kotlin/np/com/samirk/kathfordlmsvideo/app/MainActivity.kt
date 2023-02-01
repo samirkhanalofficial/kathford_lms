@@ -1,4 +1,4 @@
-package np.com.samirk.kathfordlmsvideo.kathfordlmsvideo
+package np.com.samirk.kathfordlmsvideo.app
 
 import io.flutter.embedding.android.FlutterActivity
 

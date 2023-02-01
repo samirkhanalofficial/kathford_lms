@@ -36,27 +36,23 @@ class HomeScreen extends StatefulWidget {
 
 class _HomeScreenState extends State<HomeScreen> {
   var data = [];
-  bool signed = false;
   var _isloading = true;
-  bool iskathfordstudent = false;
   loaddata() async {
+    _isloading = true;
     data = [];
-    
-      signed = true;
-    
-    var email = "";
-    if (true) {
-      iskathfordstudent = true;
-
-      try {
-        var res = await http.get(Uri.parse(url));
-        data = await jsonDecode(res.body);
-      } catch (e) {
-        print("error : " + e.toString());
+    setState(() {});
+    try {
+      var res = await http.get(Uri.parse(url));
+      if (res.statusCode == 200) {
+        var dataa = await jsonDecode(res.body);
+        data = dataa[0]["semisters"][0]["data"];
       }
-    } 
+      _isloading = false;
+    } catch (e) {
+      print("error : " + e.toString());
+      _isloading = false;
+    }
 
-    _isloading = false;
     setState(() {});
   }
 
@@ -68,27 +64,36 @@ class _HomeScreenState extends State<HomeScreen> {
 
   @override
   Widget build(BuildContext context) {
-    SystemChrome.setEnabledSystemUIOverlays([]);
+    SystemChrome.setEnabledSystemUIMode(SystemUiMode.immersive);
     return Row(
       children: [
-        Expanded(child: Container(
-          child: Image.asset("assets/happy.jpg"),
-        ),),
+        Expanded(
+          child: Container(
+            child: Image.asset("assets/happy.jpg"),
+          ),
+        ),
         SizedBox(
-          width: MediaQuery.of(context).size.width > 411 ? 411 : MediaQuery.of(context).size.width,
-          height: MediaQuery.of(context).size.height ,
+          width: MediaQuery.of(context).size.width > 411
+              ? 411
+              : MediaQuery.of(context).size.width,
+          height: MediaQuery.of(context).size.height,
           child: Scaffold(
             body: ListView(
               physics: BouncingScrollPhysics(),
               children: [
+                ElevatedButton(
+                    onPressed: () {
+                      loaddata();
+                    },
+                    child: Text("reload")),
                 Padding(
                   padding: const EdgeInsets.all(38.0),
                   child: Container(
                     height: 150,
                     child: Hero(
                         tag: "logo",
-                        child:
-                            Material(child: Image.asset("assets/ic_launcher.png"))),
+                        child: Material(
+                            child: Image.asset("assets/ic_launcher.png"))),
                   ),
                 ),
                 data.length < 1
@@ -100,7 +105,8 @@ class _HomeScreenState extends State<HomeScreen> {
                           child: Material(
                             child: Text(
                               "Subjects : ",
-                              style: GoogleFonts.zcoolQingKeHuangYou(fontSize: 30),
+                              style:
+                                  GoogleFonts.zcoolQingKeHuangYou(fontSize: 30),
                             ),
                           ),
                         ),
@@ -155,81 +161,47 @@ class _HomeScreenState extends State<HomeScreen> {
                           ],
                         ),
                       )
-                    : data.length < 1
-                        ? !iskathfordstudent
-                            ? SizedBox()
-                            : Column(
-                                children: [
-                                  Image.asset("assets/error_internet.jpg"),
-                                  Padding(
-                                    padding: const EdgeInsets.all(8.0),
-                                    child: Text(
-                                      "No Internet Connection ",
-                                      style: GoogleFonts.zcoolQingKeHuangYou(
-                                          fontSize: 30),
-                                    ),
-                                  ),
-                                  Padding(
-                                    padding: const EdgeInsets.all(8.0),
-                                    child: Text(
-                                      "Please check your internet connection and try again ",
-                                      style: GoogleFonts.zcoolQingKeHuangYou(),
-                                    ),
-                                  ),
-                                  ElevatedButton(
-                                      onPressed: () {
-                                        setState(() {
-                                          _isloading = true;
-                                        });
-                                        loaddata();
-                                      },
-                                      child: Text("Reload"))
-                                ],
-                              )
-                        : SizedBox(),
-                _isloading
-                    ? SizedBox()
-                    : !iskathfordstudent
-                        ? Column(
+                    : data.length != 0
+                        ? SizedBox()
+                        : Column(
                             children: [
-                              Image.asset("assets/security.jpg"),
+                              Image.asset("assets/error_internet.jpg"),
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
                                 child: Text(
-                                  "Login Error ",
-                                  style:
-                                      GoogleFonts.zcoolQingKeHuangYou(fontSize: 30),
+                                  "No Internet Connection ",
+                                  style: GoogleFonts.zcoolQingKeHuangYou(
+                                      fontSize: 30),
                                 ),
                               ),
                               Padding(
                                 padding: const EdgeInsets.all(8.0),
                                 child: Text(
-                                  "Please sign in with your kathford email. ",
+                                  "Please check your internet connection and try again ",
                                   style: GoogleFonts.zcoolQingKeHuangYou(),
                                 ),
                               ),
                               ElevatedButton(
-                                  onPressed: () async {
-                                   
+                                  onPressed: () {
                                     setState(() {
                                       _isloading = true;
                                     });
                                     loaddata();
                                   },
-                                  child: Text("retry"))
+                                  child: Text("Reload"))
                             ],
-                          )
-                        : SizedBox(),
+                          ),
                 for (var dat in data)
                   Card(
                     elevation: 0,
                     child: ListTile(
-                      onTap: () => navigate(context, dat["subject"], dat["teacher"]),
-                      title: Text(dat["subject"],
+                      onTap: () =>
+                          navigate(context, dat["subject"], dat["teacher"]),
+                      title: Text(dat!["subject"].toString() + "",
                           style: GoogleFonts.zcoolQingKeHuangYou()),
                       leading: Icon(Icons.document_scanner),
-                      subtitle:
-                          Text("first sem", style: GoogleFonts.zcoolQingKeHuangYou()),
+                      subtitle: Text("first sem",
+                          style: GoogleFonts.zcoolQingKeHuangYou()),
                       trailing: Icon(Icons.arrow_forward_ios),
                     ),
                   ),
